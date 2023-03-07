@@ -31,6 +31,7 @@ The RS School has had excellent success in 11 countries. Thousands of graduated 
 
 ## Schedule
 ### RS APP Schedule
+https://app.rs.school/course/score?course=react-2023-q1
 
 ### Week#1 - 9h
 - Test: How to study at school?
