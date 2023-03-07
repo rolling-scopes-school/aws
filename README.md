@@ -22,7 +22,6 @@ Questions will collect here: https://docs.google.com/spreadsheets/d/1h-vG2U0gYpF
 
 ### How to join us
 
-### 
 
 
 
