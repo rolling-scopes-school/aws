@@ -4,6 +4,7 @@ The program is divided into three steps: Fundamentals, Cloud Developer, and Arch
 
 ### Discord 
 // TODO Channel structure
+- Offical languages: RU & EN 
 
 ### Weekly Q&A Sessions
 Will be held each Tuesday at 15:00 CET.
