@@ -30,6 +30,8 @@ RS School is a free-of-charge and community-based education program run by the R
 The RS School has had excellent success in 11 countries. Thousands of graduated trainees and 500+ mentors around the world.
 
 ## Schedule
+### RS APP Schedule
+
 ### Week#1 - 9h
 - Test: How to study at school?
 - https://learn.cantrill.io/p/tech-fundamentals
