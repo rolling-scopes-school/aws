@@ -1,4 +1,4 @@
-# Architect [Optional]
+# AWS Cloud Architect Course
 
 ## Theory
 
