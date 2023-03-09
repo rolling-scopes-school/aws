@@ -8,6 +8,11 @@ Thousands of graduated trainees in 11 countries and 500+ mentors around the worl
 
 **RS AWS Club** - part of The Rolling Scopes focused on NodeJS and AWS technologies. We meet regularly to share ideas, answer questions, and learn about new services and best practices.
 
+### RS SCHOOL PRINCIPLES
+- Open to everyone. Free courses, no obligations, and no contracts. No age limit. Only students’ time and dedication are required. Students can repeatedly attend courses.
+- Open source philosophy. [Our Learning Management System](https://github.com/rolling-scopes/rsschool-app) platform and education materials are publicly available on GitHub and YouTube.
+- “Pay the favor forward.” According to this principle, students study at school for free, but we request that they return as mentors to pass on their knowledge to the next generation of students.
+
 ### The Problem
 Cloud technologies are now used in almost all projects. And knowledge of the principles of their work becomes mandatory for all developers. Unfortunately, in our large RS community, we did not find a group of trainers who would volunteer to teach. Therefore, we decided to study ourselves: take various courses, regularly discuss various topics and take certification. Fortunately, colleagues from AWS are helping us. Now we invite everyone to join us and learn together.
 
