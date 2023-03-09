@@ -1,9 +1,36 @@
-# RS School - AWS from Zero to Hero
+# RS School. AWS from Zero to Hero educational program.
 
 The program is divided into three steps: Fundamentals, Cloud Developer, and Architect. Its aim is to help students acquire and enhance their knowledge of AWS, which will enable them to become fully functional cloud-native developers after obtaining the AWS Certified Developer - Associate certification. The Architect step of this course is optional and focuses on improving architectural skills in designing cloud-based solutions and archiving AWS Certified Architect - Associate and AWS Certified Architect - Professional.
 
+During this program, students will have the opportunity to earn publically-recognized RS and AWS badges and certifications, such as:
+
+**Fundamentals**
+
+- RS School certification - AWS Fundamentals
+- AWS Cloud Quest - Practitioner badge
+- AWS Certified Cloud Practitioner certificate
+
+**Cloud Developer**
+
+- RS School certification - AWS Cloud Developer
+- AWS Serverless badge
+- AWS Certified Developer - Associate certificate
+- [Optional] AWS Cloud Quest - Solutions Architect
+- [Optional] AWS Cloud Quest - Serverless Developer
+- [Optional] AWS Cloud Quest - Machine Learning
+- [Optional] AWS Cloud Quest - Security
+- [Optional] AWS Cloud Quest - Data Analytics
+
+**[Optional] Architect**
+
+- RS School certification - AWS Architect
+- AWS Certified Solutions Architect - Associate certificate
+- AWS Certified Solutions Architect - Professional certificate
+
 ### Learning Path
-- AWS Practitioner 
+- AWS Fundamentals Course
+- AWS Cloud Developer Course
+- AWS Architect Course
 
 ### Discord 
 // TODO Channel structure
@@ -25,7 +52,9 @@ Questions will collect here: https://docs.google.com/spreadsheets/d/1h-vG2U0gYpF
 
 ### How to join us
 
-
+### RS School
+RS School is a free-of-charge and community-based education program run by the Rolling Scopes developer community since 2013.
+The RS School has had excellent success in 11 countries. Thousands of graduated trainees and 500+ mentors around the world.
 
 
 
