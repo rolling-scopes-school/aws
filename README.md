@@ -8,9 +8,10 @@ The program is divided into three steps: Fundamentals, Cloud Developer, and Arch
 - [AWS Cloud Developer Course](/aws-developer/)
 - [AWS Architect Course](/aws-architect/)
 
-### Discord 
-// TODO Channel structure
-- Offical languages: RU & EN 
+### Communication
+- Offical languages: EN & RU 
+- Weekly meeting and Q&A Sessions 
+- Discord 
 
 ### Weekly Q&A Sessions
 Will be held each Tuesday at 15:00 CET.
@@ -31,6 +32,20 @@ Questions will collect here: https://docs.google.com/spreadsheets/d/1h-vG2U0gYpF
 ### RS School
 RS School is a free-of-charge and community-based education program run by the Rolling Scopes developer community since 2013.
 The RS School has had excellent success in 11 countries. Thousands of graduated trainees and 500+ mentors around the world.
+
+## FAQ
+### Where is the communication taking place?
+In the Discord chat - [https://discord.gg/2Ww3TCBvz4](https://discord.gg/uWvFU2RAba)
+
+### Where can I ask a question?
+Questions can be asked in the Discord chat - https://discord.gg/2Ww3TCBvz4
+
+#### Can I study the learning modules and do projects in advance?
+Sure!
+
+### Is it necessary to watch the webinars?
+No. After self-studying the materials, you can watch the webinar to consolidate the information or ask questions on Discord server.
+The webinar recordings can be found on our channel - https://www.youtube.com/@RSSchool.
 
 
 
