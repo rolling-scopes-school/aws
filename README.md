@@ -28,7 +28,7 @@ If you are interested in organizing in-person meetups in your city, please conta
 
 3. We provide AWS courses. 
 
-## AWS from Zero to Hero educational program.
+## AWS from Zero to Hero educational program
 The program is divided into three steps: Fundamentals, Cloud Developer, and Architect. Its aim is to help students acquire and enhance their knowledge of AWS, which will enable them to become fully functional cloud-native developers after obtaining the AWS Certified Developer - Associate certification. The Architect step of this course is optional and focuses on improving architectural skills in designing cloud-based solutions and archiving AWS Certified Architect - Associate and AWS Certified Architect - Professional.
 
 ### Learning Path
@@ -42,12 +42,14 @@ The program is divided into three steps: Fundamentals, Cloud Developer, and Arch
 - Discord 
 
 ### Weekly Q&A Sessions in EN and RU
-Held every Tuesday at 15:00 CET in English.
-Held every Friday at 15:00 CET in Russian.
+Held every Tuesday at 15:00 CET in English.  
+Held every Friday at 15:00 CET in Russian.  
 We ask you to submit your questions in advance via google form - https://docs.google.com/forms/d/e/1FAIpQLSfKJcoz0KsT2d2efJV-5bN-VlcMUSc5Ljs-B0LJN8xrglMubQ/viewform
 Questions will be collected here: https://docs.google.com/spreadsheets/d/1h-vG2U0gYpFjMo5sGpBinwmlUGWKR8R5Stx0WcZJ2TU/edit?resourcekey#gid=1431148721
 
 ### AWS Accounts 
+- Important! You use your personal AWS accounts to complete the courses.
+- We occasionally host AWS workshops for which free accounts are provided.
 - Belarus and Russia. Students from Russia and Belarus will have problems to create an account in AWS. Unfortunately we can do nothing with that.
 
 ## FAQ
