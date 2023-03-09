@@ -1,4 +1,4 @@
-### AWS Fundamentals Course 
+# AWS Fundamentals Course 
 - Free
 - Online
 - In English
