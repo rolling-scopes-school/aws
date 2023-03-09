@@ -3,7 +3,8 @@
 - Online
 - In English
 - Start date: March 14
-- 
+
+
 Welcome to our AWS Fundamentals course, designed to help you gain the knowledge required to pass the AWS Cloud Practitioner certification. 
 The AWS Certified Cloud Practitioner certification is a great entry-level certification for AWS. It's great at assessing how well you understand AWS, its services, and its ecosystem.
 The course consists of weekly assignments that you can complete at your own pace, followed by a test that will help you evaluate your understanding of the materials. We expect that you will need to dedicate 5-10 hours per week to complete the assignments. The total duration of the course is 5 weeks.
@@ -24,10 +25,6 @@ Beginners welcome! No AWS Cloud experience is necessary, we'll use the AWS Free 
 No IT prerequisites required
 
 We are excited to have you on this journey and look forward to supporting you in your learning. Let's get started!
-
-### RS School
-RS School is a free-of-charge and community-based education program run by the Rolling Scopes developer community since 2013.
-The RS School has had excellent success in 11 countries. Thousands of graduated trainees and 500+ mentors around the world.
 
 ## Schedule
 ### RS APP Schedule
