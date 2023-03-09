@@ -17,8 +17,7 @@ Thousands of graduated trainees in 11 countries and 500+ mentors around the worl
 
 1. We organize weekly online meetings. Our guest speakers are AWS architects and AWS developers. Everyone is invited! Recordings can be found on our youtube channel: https://www.youtube.com/@RollingScopesSchool/videos 
  
-
-2. Organize offline meetups under the AWS User Groups brand
+2. We organize offline meetups under the AWS User Groups brand
 Together with AWS experts our RS activists build local AWS User Groups in different cities: Tashkent (UZ), Yerevan(AM), Astana (KZ), Almata(KZ), 
 Bishkek(KG), Gdansk(PL) etc and organize in-person meetups.
 For example:
