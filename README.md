@@ -1,7 +1,30 @@
 # RS School. AWS from Zero to Hero educational program.
 
-The program is divided into three steps: Fundamentals, Cloud Developer, and Architect. Its aim is to help students acquire and enhance their knowledge of AWS, which will enable them to become fully functional cloud-native developers after obtaining the AWS Certified Developer - Associate certification. The Architect step of this course is optional and focuses on improving architectural skills in designing cloud-based solutions and archiving AWS Certified Architect - Associate and AWS Certified Architect - Professional.
+### Who we are?
+**The Rolling Scopes** is an independent international community of developers (mainly JavaScript, Front-end, AWS, iOS, Android, etc.).
 
+**RS School** is a free-of-charge and community-based education program run by the Rolling Scopes developer community since 2013.
+Thousands of graduated trainees in 11 countries and 500+ mentors around the world.
+
+**RS AWS Club** - part of The Rolling Scopes focused on NodeJS and AWS technologies. We meet regularly to share ideas, answer questions, and learn about new services and best practices.
+
+### The Problem
+Cloud technologies are now used in almost all projects. And knowledge of the principles of their work becomes mandatory for all developers. Unfortunately, in our large RS community, we did not find a group of trainers who would volunteer to teach. Therefore, we decided to study ourselves: take various courses, regularly discuss various topics and take certification. Fortunately, colleagues from AWS are helping us. Now we invite everyone to join us and learn together.
+
+### What we are doing in scope of the RS AWS Club?
+
+**Weekly Online Meetings** https://www.youtube.com/@RollingScopesSchool/videos 
+
+**Organize offline meetups under AWS User Groups brand**
+Together with AWS experts our RS activists build local AWS User Groups in different cities: Tashkent (UZ), Yerevan(AM), Astana (KZ), Almata(KZ), 
+Bishkek(KG), Gdansk(PL) etc and organize in-person meetups.
+
+For example:
+- https://www.meetup.com/aws-tashkent/
+- https://www.meetup.com/aws-user-group-armenia/
+
+## AWS from Zero to Hero educational program.
+The program is divided into three steps: Fundamentals, Cloud Developer, and Architect. Its aim is to help students acquire and enhance their knowledge of AWS, which will enable them to become fully functional cloud-native developers after obtaining the AWS Certified Developer - Associate certification. The Architect step of this course is optional and focuses on improving architectural skills in designing cloud-based solutions and archiving AWS Certified Architect - Associate and AWS Certified Architect - Professional.
 
 ### Learning Path
 - [AWS Fundamentals Course](/aws-fundamentals/)
@@ -30,8 +53,7 @@ Questions will collect here: https://docs.google.com/spreadsheets/d/1h-vG2U0gYpF
 ### How to join us
 
 ### RS School
-RS School is a free-of-charge and community-based education program run by the Rolling Scopes developer community since 2013.
-The RS School has had excellent success in 11 countries. Thousands of graduated trainees and 500+ mentors around the world.
+
 
 ## FAQ
 ### Where is the communication taking place?
