@@ -1,4 +1,15 @@
 # AWS Cloud Developer Course
+
+During this course, students will have the opportunity to earn publically-recognized RS and AWS badges and certifications, such as:
+- RS School certification - AWS Cloud Developer
+- AWS Serverless badge
+- AWS Certified Developer - Associate certificate
+- [Optional] AWS Cloud Quest - Solutions Architect
+- [Optional] AWS Cloud Quest - Serverless Developer
+- [Optional] AWS Cloud Quest - Machine Learning
+- [Optional] AWS Cloud Quest - Security
+- [Optional] AWS Cloud Quest - Data Analytics
+
 ### Theory
 
 ### Networking Advanced
