@@ -28,17 +28,13 @@ If you are interested in organizing in-person meetups in your city, please conta
 
 3. We provide AWS courses. 
 
-### The Problem
-Cloud technologies are now used in almost all projects. And knowledge of how to use these technologies has become mandatory for all developers. Unfortunately, in our large RS community, we did not find a group of trainers who would volunteer to teach. Therefore, we decided to study ourselves: take various courses, regularly discuss various topics and take certification. Fortunately, colleagues from AWS are helping us. Now we invite everyone to join us and learn together.Wa
-
-
 ## AWS from Zero to Hero educational program.
 The program is divided into three steps: Fundamentals, Cloud Developer, and Architect. Its aim is to help students acquire and enhance their knowledge of AWS, which will enable them to become fully functional cloud-native developers after obtaining the AWS Certified Developer - Associate certification. The Architect step of this course is optional and focuses on improving architectural skills in designing cloud-based solutions and archiving AWS Certified Architect - Associate and AWS Certified Architect - Professional.
 
 ### Learning Path
-- [AWS Fundamentals Course](/aws-fundamentals/)
-- [AWS Cloud Developer Course](/aws-developer/)
-- [AWS Architect Course](/aws-architect/)
+- [AWS Fundamentals Course](/aws-fundamentals/) 
+- [AWS Cloud Developer Course](/aws-developer/) **(under construction)**
+- [AWS Architect Course](/aws-architect/) **(planned)**
 
 ### Communication
 - Offical languages: EN & RU 
@@ -53,16 +49,6 @@ Questions will be collected here: https://docs.google.com/spreadsheets/d/1h-vG2U
 
 ### AWS Accounts 
 - Belarus and Russia. Students from Russia and Belarus will have problems to create an account in AWS. Unfortunately we can do nothing with that.
-
-
-### Why we are doing
-
-### What we are doing
-
-### How to join us
-
-### RS School
-
 
 ## FAQ
 ### Where is the communication taking place?
