@@ -35,27 +35,35 @@ https://app.rs.school/course/score?course=react-2023-q1
 - https://learn.cantrill.io/p/tech-fundamentals
 
 ### Week#2
-- AWS Cloud Practitioner Essentials - 6h
+- AWS Cloud Practitioner Essentials - 6h. 
+
 This course is for individuals who seek an overall understanding of the Amazon Web Services (AWS) Cloud, independent of specific technical roles. You will learn about AWS Cloud concepts, AWS services, security, architecture, pricing, and support to build your AWS Cloud knowledge. This course also helps you prepare for the AWS Certified Cloud Practitioner exam.
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials
 
 ### Week#3
-- Getting Started with Cloud Acquisition - 1.5h
+- Getting Started with Cloud Acquisition - 1.5h  
+
 In this course, you will learn how to buy AWS Cloud effectively, from the very start of the procurement effort. The course includes an in-depth review of cloud acquisition best practices, the benefits of working with the AWS Partner Network (APN), and how to overcome common challenges. The course aims to upskill you with the key acquisition knowledge you need to speak to all stakeholders in your organization and help maximize the benefits of cloud adoption.
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1575/getting-started-with-cloud-acquisition
 
-- AWS Well-Architected - 1.5h
+- AWS Well-Architected - 1.5h. 
+
 This course teaches our customers about the AWS Well-Architected Framework to understand how they can make informed decisions about their architecture in a cloud-native way and understand the impact of design decisions. By using the Well-Architected Framework, customers can understand the risks in their architecture, and learn ways to mitigate them.
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2045/aws-well-architected
-Introduction to AWS Certification - 0.5h
+
+- Introduction to AWS Certification - 0.5h. 
+
 This foundational-level course from Amazon Web Services (AWS) offers an overview of AWS Certification. Getting AWS Certified can help you propel your career—whether you want to find a new role, showcase your skills to take on a new project, or become your team’s go-to expert. In this course, you will learn what AWS Certifications are available, what to expect as you prepare and take your exam, how to determine what content is covered on an exam, and tips from our AWS trainers on getting started.
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6068/introduction-to-aws-certification
 
 ### Week#4
-AWS Security Fundamentals (Second Edition) - 2h
+AWS Security Fundamentals (Second Edition) - 2h. 
+
 In this self-paced course, you will learn fundamental AWS cloud security concepts, including AWS access control, data encryption methods, and how network access to your AWS infrastructure can be secured. We will address and your security responsibility in the AWS cloud and the different security-oriented services available.
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/48/aws-security-fundamentals-second-edition
-AWS Foundations: Getting Started with the AWS Cloud Essentials - 1h
+
+AWS Foundations: Getting Started with the AWS Cloud Essentials - 1h. 
+
 Learn about the foundations of getting started in the AWS Cloud. In this course, you learn about the AWS Cloud architecture and the services in the Compute, Storage, Database, Networking, and Security categories. This course can help you build and validate an overall understanding of the AWS Cloud, key terminology, and help advance your AWS Cloud skills.
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/482/aws-foundations-getting-started-with-the-aws-cloud-essentials
 
