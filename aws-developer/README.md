@@ -1,4 +1,4 @@
-# AWS Cloud developer
+# AWS Cloud Developer Course
 ### Theory
 
 ### Networking Advanced
