@@ -1,17 +1,18 @@
 # RS School. AWS from Zero to Hero educational program
 
-### Who are we?
+## Who are we?
 **The Rolling Scopes** is an independent international community of developers (mainly JavaScript, Front-end, AWS, iOS, Android, etc.).
 
 **RS School** is a free-of-charge and community-based education program run by the Rolling Scopes developer community since 2013.
 Thousands of graduated trainees in 11 countries and 500+ mentors around the world.
 
-**RS AWS Club** - part of The Rolling Scopes focused on NodeJS and AWS technologies. We meet regularly to share ideas, answer questions, and learn about new services and best practices.
-
-### What are our principles?
+#### What are our principles?
 - **Open to everyone.** Free courses, no obligations, and no contracts. No age limit. Only students’ time and dedication are required. Students can repeatedly attend courses.
 - **Open source philosophy.** [Our Learning Management System](https://github.com/rolling-scopes/rsschool-app) platform and education materials are publicly available on GitHub and YouTube.
 - **Teach it forward** According to this principle, students study at school for free, but we request that they return as mentors to pass on their knowledge to the next generation of students.
+
+## RS AWS Club
+**RS AWS Club** - part of The Rolling Scopes focused on NodeJS and AWS technologies. We meet regularly to share ideas, answer questions, and learn about new services and best practices.
 
 ### What are we doing in the scope of the RS AWS Club?
 
@@ -32,9 +33,9 @@ If you are interested in organizing in-person meetups in your city, please conta
 The program is divided into three steps: Fundamentals, Cloud Developer, and Architect. Its aim is to help students acquire and enhance their knowledge of AWS, which will enable them to become fully functional cloud-native developers after obtaining the AWS Certified Developer - Associate certification. The Architect step of this course is optional and focuses on improving architectural skills in designing cloud-based solutions and archiving AWS Certified Architect - Associate and AWS Certified Architect - Professional.
 
 ### Learning Path
-- [AWS Fundamentals Course](/aws-fundamentals/) 
-- [AWS Cloud Developer Course](/aws-developer/) **(under construction)**
-- [AWS Architect Course](/aws-architect/) **(planned)**
+- [**AWS Fundamentals Course**](/aws-fundamentals/) 
+- [**AWS Cloud Developer Course**](/aws-developer/) **(under construction)**
+- [**AWS Architect Course**](/aws-architect/) **(planned)**
 
 ### Communication
 - Offical languages: EN & RU 
