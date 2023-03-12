@@ -37,15 +37,15 @@ The program is divided into three steps: Fundamentals, Cloud Developer, and Arch
 - [**AWS Cloud Developer Course**](/aws-developer/) **(under construction)**
 - [**AWS Architect Course**](/aws-architect/) **(planned)**
 
-### Communication
-- Offical languages: EN & RU 
-- Weekly meeting and Q&A Sessions 
-- Discord 
 
-### Weekly Q&A Sessions in EN and RU
-Held every Tuesday at 15:00 CET in English.  
-Held every Friday at 15:00 CET in Russian.  
-We ask you to submit your questions in advance via google form - https://docs.google.com/forms/d/e/1FAIpQLSfKJcoz0KsT2d2efJV-5bN-VlcMUSc5Ljs-B0LJN8xrglMubQ/viewform
+### Communication
+
+#### Discord Server
+Our Discord server is the main platform for communication. We have created two categories of channels - RS-AWS-Club-EN and RS-AWS-Club-RU, for English and Russian-speaking members respectively. 
+Link to join: https://discord.gg/uWvFU2RAba
+
+#### Q&A Sessions
+We have regular Q&A sessions every Tuesday at 15:00 CET in English and every Friday at 15:00 CET in Russian. During the Q&A sessions, our mentors will answer your questions related to the course. To submit your questions in advance, please use google form: https://docs.google.com/forms/d/e/1FAIpQLSfKJcoz0KsT2d2efJV-5bN-VlcMUSc5Ljs-B0LJN8xrglMubQ/viewform
 Questions will be collected here: https://docs.google.com/spreadsheets/d/1h-vG2U0gYpFjMo5sGpBinwmlUGWKR8R5Stx0WcZJ2TU/edit?resourcekey#gid=1431148721
 
 ### AWS Accounts 
