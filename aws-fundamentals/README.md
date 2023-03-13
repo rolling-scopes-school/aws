@@ -28,7 +28,7 @@ We are excited to have you on this journey and look forward to supporting you in
 
 ## Schedule
 ### RS APP Schedule
-https://app.rs.school/course/score?course=react-2023-q1
+https://app.rs.school/course/schedule?course=aws-2023q1
 
 ### Week#1 - 9h
 - Test: How to study at school?
