@@ -53,6 +53,9 @@ Questions will be collected here: https://docs.google.com/spreadsheets/d/1h-vG2U
 - We occasionally host AWS workshops for which free accounts are provided.
 - Belarus and Russia. Students from Russia and Belarus will have problems to create an account in AWS. Unfortunately we can do nothing with that.
 
+### [EPAM Employees Only] Reimbursement of AWS exams
+More info: https://kb.epam.com/display/EPMCACM/Get+started%3A+reimbursement+of+AWS+exams
+
 ## FAQ
 ### Where is the communication taking place?
 In the Discord chat - [https://discord.gg/2Ww3TCBvz4](https://discord.gg/uWvFU2RAba)
