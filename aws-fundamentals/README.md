@@ -30,9 +30,9 @@ We are excited to have you on this journey and look forward to supporting you in
 ### RS APP Schedule
 https://app.rs.school/course/schedule?course=aws-2023q1
 
-### Week#1 - 9h
+### Week#1
 - Test: How to study at school?
-- https://learn.cantrill.io/p/tech-fundamentals
+- https://learn.cantrill.io/p/tech-fundamentals - 9h
 
 ### Week#2
 - AWS Cloud Practitioner Essentials - 6h. 
