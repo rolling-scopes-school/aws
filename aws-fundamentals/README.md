@@ -32,12 +32,9 @@ We are excited to have you on this journey and look forward to supporting you in
 https://app.rs.school/course/schedule?course=aws-2023q1
 
 ### Week#1
-- To get started with this course, please take the following steps:  
-   Step #1. Register on the platform:
-   https://app.rs.school/registry/student?course=aws-2023q1. 
-   Step #2. Join the discord chat:
-   https://discord.gg/uWvFU2RAba
-- https://learn.cantrill.io/p/tech-fundamentals - 9h
+- Register on the platform: https://app.rs.school/registry/student?course=aws-2023q1. 
+- Join the discord chat: https://discord.gg/uWvFU2RAba
+- Self study: https://learn.cantrill.io/p/tech-fundamentals - 9h
 
 ### Week#2
 - AWS Cloud Practitioner Essentials - 6h. 
