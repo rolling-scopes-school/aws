@@ -40,3 +40,7 @@
 ## Task 9
 
 - AWS Elastic Beanstalk
+
+## Task 10
+
+- AWS Elastic Beanstalk
