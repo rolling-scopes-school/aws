@@ -26,3 +26,7 @@
 - AWS SQS
 - AWS SNS
 - AWS Lambda triggered by an SQS event with batch size
+
+## Task 7
+
+- AWS Lambda
