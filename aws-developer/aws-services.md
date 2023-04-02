@@ -3,7 +3,12 @@
 - AWS S3 for hosting static websites
 - AWS CloudFront, including Invalidation
 
-## Task3 
+## Task 3
 
 - AWS Lambda and bundling lambdas
 - AWS API Gateway (?)
+
+## Task 4
+
+- AWS DynamoDB
+- AWS Lambda to read/create DB item
