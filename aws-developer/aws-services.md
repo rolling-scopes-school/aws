@@ -36,3 +36,7 @@
 
 - NestJS deployed to AWS Lambda
 - AWS RDS
+
+## Task 9
+
+- AWS Elastic Beanstalk
