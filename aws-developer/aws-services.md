@@ -1,9 +1,9 @@
 ## Task 2
 
-- AWS S3
+- AWS S3 for hosting static websites
 - AWS CloudFront, including Invalidation
 
 ## Task3 
 
-- AWS Lambda
+- AWS Lambda and bundling lambdas
 - AWS API Gateway (?)
