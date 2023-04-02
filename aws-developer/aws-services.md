@@ -31,7 +31,6 @@
 
 - AWS Lambda
 
-
 ## Task 8
 
 - NestJS deployed to AWS Lambda
