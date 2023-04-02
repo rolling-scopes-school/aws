@@ -30,3 +30,9 @@
 ## Task 7
 
 - AWS Lambda
+
+
+## Task 8
+
+- NestJS deployed to AWS Lambda
+- AWS RDS
