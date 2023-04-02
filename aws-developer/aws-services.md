@@ -11,4 +11,5 @@
 ## Task 4
 
 - AWS DynamoDB
+- AWS RDS
 - AWS Lambda to read/create DB item
