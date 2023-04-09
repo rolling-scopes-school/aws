@@ -6,8 +6,8 @@
 
 _NOTE: This should have already been done in Task 1, but as a reminder._
 
-- **Install** the latest version of Serverless Framework (https://www.serverless.com/).
-- **Configure** credentials for AWS to make them accessible by Serverless.
+- **Install** the latest version of AWS CDK (https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html).
+- **Configure** credentials for AWS to make them accessible AWS CLI & CDK.
 - **Fork** Any (React, Angular, Vue) Shop single page app from https://github.com/EPAM-JS-Competency-center
 - **Install** dependencies…
 - **Check** if everything works for you...
@@ -42,13 +42,12 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 **Automated Deployment**
 
-1. **Add** and **configure** _serverless_ and _serverless-finch_ plugin. Add necessary npm script(s) to build and deploy your app from your machine in an automated way. **Check** if everything works correctly for you.
-Here's a [Demo repo](https://github.com/boale/serverlessTestApp) as an example.
+1. **Add** and **configure** S3 bucket creation and website deployment using AWS CDK. Add necessary npm script(s) to build and deploy your app from your machine in an automated way. **Check** if everything works correctly for you.
 
 _NOTE: After uploading an application's build to the S3 bucket you need to manually create a CloudFront invalidation._
 
 2. **Destroy** the created AWS infrastructure (S3 bucket and CloudFront distribution) from the previous part and steps. **Make sure** nothing is left.
-3. **Add** and **configure** `serverless-single-page-app-plugin` as it is implemented in the demo repository. **Add** necessary npm script(s) to build, upload to your S3 bucket, and invalidate CloudFront cache from your machine in an automated way. **Check** if everything works fine and all changes appear on the Web.
+3. **Add** and **configure** CloudFront Distribution and Invalidation using AWS CDK. **Add** necessary npm script(s) to build, upload to your S3 bucket, and invalidate CloudFront cache from your machine in an automated way. **Check** if everything works fine and all changes appear on the Web.
 
 _NOTE: Now that you have this plugin you don’t need to manually create CloudFront invalidations any more._
 
@@ -70,7 +69,7 @@ _NOTE: Now that you have this plugin you don’t need to manually create CloudFr
 ## Additional (optional) tasks
 
 ---
-- **30** - `Serverless-finch` and `serverless-single-page-app` plugins are added and configured. The app can be built and deployed by running npm script command.
+- **30** - S3 bucket creation, website deployment, CloudFront Distribution and Invalidation added and configured by using AWS CDK. The app can be built and deployed by running npm script command.
   _(Link to CloudFront website is provided. PR with all changes is submitted in the YOUR OWN frontend repository and its link is provided for review.)_
 
 NOTE: YOU SHOULD WORK IN YOUR OWN FORKED REPOSITORY, NOT IN COMMON
