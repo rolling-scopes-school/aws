@@ -46,13 +46,11 @@ By the end of the program your application must be able to do:
 
 ### Task 1.3
 
-1. Decide which FE framework will be used:
+1. Сheck out FE App that will be used:
 
-    - [React Front app](https://github.com/EPAM-JS-Competency-center/shop-react-redux-cloudfront).
-    - [Angular Front app](https://github.com/EPAM-JS-Competency-center/shop-angular-cloudfront).
-    - [Vue Front app](https://github.com/EPAM-JS-Competency-center/shop-vue-vuex-cloudfront).
+    - [React Front app](https://github.com/rolling-scopes-school/nodejs-aws-shop-react).
 
-2. Clone the selected repo, install dependencies, run the app and check if everything is okay
+2. Clone the FE App repo, install dependencies, run the app and check if everything is okay
 
     - Check `package.json` and/or `README.md` for additional details.
 
