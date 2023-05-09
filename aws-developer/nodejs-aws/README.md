@@ -57,12 +57,10 @@ This program will have theory and practice on the following topics:
 - Services & Tools overview
 - AWS CloudFront overview
 - Basic overview of deployment process to CloudFront and S3
-- Serverless Framework overview
 - AWS CLI overview
 
 ### Module 3 - [Serverless API](./3_serverless_api/README.md)
 - AWS Lambda Overview
-- Serverless Framework and Lambda 
 - Introduction to Collecting logs with AWS CloudWatch
 - Lambda Advanced Features and Configuration
 
