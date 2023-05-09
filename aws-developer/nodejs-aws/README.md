@@ -45,14 +45,14 @@ This program covers a wide range of topics according to the following [architect
 
 This program will have theory and practice on the following topics:
 
-### Module 1 - [Cloud Introduction](./1_cloud_introduction/README.md)
+### Module 1 - [Cloud Introduction](./01_cloud_introduction/README.md)
 - Fundamental Theory about Cloud Computing
 - Cloud Service Models, Cloud Deployment Models, Infrastructure-as-Code
 - Monolith vs Microservices vs Serverless
 - AWS Intro, Registration, Cloud Watch, IAM
 - Repository structure
 
-### Module 2 - [Serving SPA](./2_serving_spa/README.md)
+### Module 2 - [Serving SPA](./02_serving_spa/README.md)
 - AWS Simple Storage Service overview
 - Services & Tools overview
 - AWS CloudFront overview
@@ -60,44 +60,44 @@ This program will have theory and practice on the following topics:
 - Serverless Framework overview
 - AWS CLI overview
 
-### Module 3 - [Serverless API](./3_serverless_api/README.md)
+### Module 3 - [Serverless API](./03_serverless_api/README.md)
 - AWS Lambda Overview
 - Serverless Framework and Lambda 
 - Introduction to Collecting logs with AWS CloudWatch
 - Lambda Advanced Features and Configuration
 
-### Module 4 - [Integration with NoSQL Database](4_integration_with_nosql_database/README.md)
+### Module 4 - [Integration with NoSQL Database](04_integration_with_nosql_database/README.md)
 - Easy way to store data in Cloud
 - AWS DynamoDB and how to use it
 
-### Module 5 - [Integration with S3](./5_integration_with_s3/README.md)
+### Module 5 - [Integration with S3](./05_integration_with_s3/README.md)
 - AWS S3 In-depth Introduction
 - S3 Storage Classes and their Use Cases
 - S3 Access Control & Encryption
 - S3 Versioning, Lifecycle Management & Events
 - Integration with S3 and Lambda Overview
 
-### Module 6 - [Async Microservices Communication](./6_async_microservices_communication/README.md)
+### Module 6 - [Async Microservices Communication](./06_async_microservices_communication/README.md)
 - Async Messaging Overview
 - AWS SQS Overview
 - AWS SNS Overview
 - Integration with SQS, SNS and Lambda Overview
 
-### Module 7 - [Authorization](./7_authorization/README.md)
+### Module 7 - [Authorization](./07_authorization/README.md)
 - Authentication & Authorization overview
 - Lambda Authorizer & API Gateway
 - AWS Cognito overview
 - Cognito User Pool
 - Cognito Identity Pool
 
-### Module 8 - [Integration with SQL Database](./8_integration_with_sql_database/README.md)
+### Module 8 - [Integration with SQL Database](./08_integration_with_sql_database/README.md)
 - Relational Databases Theory
 - SQL Overview
 - Overview of AWS database offering
 - AWS RDS and its engines
 - Serverless functions & AWS RDS
 
-### Module 9 - [Containerization](9_containerization/README.md)
+### Module 9 - [Containerization](09_containerization/README.md)
 - Docker overview
 - Dockerfiles & Images
 - Containers & VMs
