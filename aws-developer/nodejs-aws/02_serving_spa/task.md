@@ -8,7 +8,7 @@ _NOTE: This should have already been done in Task 1, but as a reminder._
 
 - **Install** the latest version of AWS CDK (https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html).
 - **Configure** credentials for AWS to make them accessible AWS CLI & CDK.
-- **Fork** Any (React, Angular, Vue) Shop single page app from https://github.com/EPAM-JS-Competency-center
+- **Fork** React Shop single page app from https://github.com/rolling-scopes-school/nodejs-aws-shop-react
 - **Install** dependencies…
 - **Check** if everything works for you...
 

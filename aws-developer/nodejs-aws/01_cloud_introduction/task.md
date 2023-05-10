@@ -21,9 +21,9 @@ By the end of the program your application must be able to do:
 
 1. Join our communication channel
 
-- Discord: register a new account if you don't have one and [join the course chat](https://discord.com/invite/ATsHAqCsnw)
+- Discord: register a new account if you don't have one and [join the course chat](https://discord.gg/uWvFU2RAba)
 
-3. Register in [RS App](https://app.rs.school/registry/student?course=aws-2022q3)
+3. Register in [RS App](https://app.rs.school/registry/student?course=aws-developer-2023q2)
 
     - The link might be outdated, so be sure to reach out if you have any doubts
     - Feel free to ask any questions in our Discord chat
@@ -46,13 +46,11 @@ By the end of the program your application must be able to do:
 
 ### Task 1.3
 
-1. Decide which FE framework will be used:
+1. Сheck out FE App that will be used:
 
-    - [React Front app](https://github.com/EPAM-JS-Competency-center/shop-react-redux-cloudfront).
-    - [Angular Front app](https://github.com/EPAM-JS-Competency-center/shop-angular-cloudfront).
-    - [Vue Front app](https://github.com/EPAM-JS-Competency-center/shop-vue-vuex-cloudfront).
+    - [React Front app](https://github.com/rolling-scopes-school/nodejs-aws-shop-react).
 
-2. Clone the selected repo, install dependencies, run the app and check if everything is okay
+2. Clone the FE App repo, install dependencies, run the app and check if everything is okay
 
     - Check `package.json` and/or `README.md` for additional details.
 
