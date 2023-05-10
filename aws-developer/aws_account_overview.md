@@ -14,7 +14,7 @@ Each AWS resource type has its own pricing page (e.g., [Route53 pricing](https:/
 - Shut down services/instances that you don't use after completing each lab.
 
 
-## Course Tasks
+## AWS Account
 
 ### Task 1 – Create an AWS Account
 
