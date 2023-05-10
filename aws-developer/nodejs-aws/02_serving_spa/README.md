@@ -12,7 +12,6 @@
 - Services & Tools overview
 - AWS CloudFront overview
 - Basic overview of deployment process to CloudFront and S3
-- Serverless Framework Overview
 - AWS CLI Overview
 
 # Materials
@@ -72,7 +71,6 @@
   - [AWS S3 Hands-On Tutorial](https://www.youtube.com/watch?v=XGcoeEyt2UM), ~45 mins
   - [AWS CloudFront Hands-On Tutorial](https://www.youtube.com/watch?v=Vr4N_ZA-uGo), ~15 mins
   - [React App on AWS S3 with Static Hosting + Cloudfront](https://www.youtube.com/watch?v=mls8tiiI3uc), ~35 mins
-  - [Getting Started with Serverless Framework](https://www.youtube.com/watch?v=KQRGM9_eqIw), ~20mins
   </blockquote>
 
 </details>
@@ -89,8 +87,8 @@
   - [What is Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
   - [Getting started with Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html)
   - [AWS S3 FAQs](https://aws.amazon.com/s3/faqs/)
-  - [Setting Up Serverless Framework With AWS](https://www.serverless.com/framework/docs/getting-started)
-  - [Serverless Framework Concepts](https://www.serverless.com/framework/docs/providers/aws/guide/intro)
+  - [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+  - [Getting started with the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
   </blockquote>
 
 </details>
@@ -104,10 +102,8 @@
 
   - [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)
   - [What AWS service should you use to publish a web site](https://adrianhall.github.io/cloud/2019/01/31/which-aws-service-for-hosting/)
-  - [Tutorial: Your First Serverless Framework Project](https://www.serverless.com/framework/docs/tutorial)
   - [AWS S3 Buckets Overview](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html)
   - [Pseudo Parameters Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
-  - [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
   - [Example of deploying static site with AWS CDK](https://github.com/EPAM-JS-Competency-center/nodejs-aws-cdk-starter)
   </blockquote>
 
