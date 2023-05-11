@@ -26,8 +26,8 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 6.1
 
-1. Create a lambda function called `catalogBatchProcess` under the same Serverless config file (i.e. `serverless.yaml`) of the Product Service which will be triggered by an SQS event.
-2. Create an SQS queue called `catalogItemsQueue`, in the resources section of the same `serverless.yml` file.
+1. Create a lambda function called `catalogBatchProcess` under the Product Service which will be triggered by an SQS event.
+2. Create an SQS queue called `catalogItemsQueue`, in the AWS CDK Stack.
 3. Configure the SQS to trigger lambda `catalogBatchProcess` with _5 messages_ at once via `batchSize` property.
 4. The lambda function should iterate over all SQS messages and create corresponding products in the products table.
 
@@ -38,7 +38,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 6.3
 
-1. Create an SNS topic `createProductTopic` and email subscription in the resources section in `serverless.yml` of the Product Service.
+1. Create an SNS topic `createProductTopic` and email subscription in the AWS CDK Stack of the Product Service.
 2. Create a subscription for this SNS topic with an `email` endpoint type with your own email in there.
 3. Update the `catalogBatchProcess` lambda function in the Product Service to send an event to the SNS topic once it creates products.
 
@@ -54,17 +54,17 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 Reviewers should verify the lambda functions, SQS and SNS topic and subscription in PR.
 
-- File `serverless.yml` contains configuration for `catalogBatchProcess` function
-- File `serverless.yml` contains policies to allow lambda `catalogBatchProcess` function to interact with SNS and SQS
-- File `serverless.yml` contains configuration for SQS `catalogItemsQueue`
-- File `serverless.yml` contains configuration for SNS Topic `createProductTopic` and email subscription
+- AWS CDK Stack contains configuration for `catalogBatchProcess` function
+- AWS CDK Stack contains policies to allow lambda `catalogBatchProcess` function to interact with SNS and SQS
+- AWS CDK Stack contains configuration for SQS `catalogItemsQueue`
+- AWS CDK Stack contains configuration for SNS Topic `createProductTopic` and email subscription
 
 ## Additional (optional) tasks
 
 ---
 
 - **+15** **(All languages)** - `catalogBatchProcess` lambda is covered by **unit** tests
-- **+15** **(All languages)** - set a Filter Policy for SNS `createProductTopic` in `serverless.yml` and create an additional email subscription to distribute messages to different emails depending on the filter for any product attribute
+- **+15** **(All languages)** - set a Filter Policy for SNS `createProductTopic` in AWS CDK Stack and create an additional email subscription to distribute messages to different emails depending on the filter for any product attribute
 
 ## Description Template for PRs
 

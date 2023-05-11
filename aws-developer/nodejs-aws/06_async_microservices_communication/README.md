@@ -97,8 +97,8 @@
   - [AWS SQS FAQs](https://aws.amazon.com/sqs/faqs/)
   - [Configuring a queue to trigger an AWS Lambda function](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-configure-lambda-function-trigger.html)
   - [Using Amazon SNS for application-to-person (A2P) messaging](https://docs.aws.amazon.com/sns/latest/dg/sns-user-notifications.html)
-  - [Serverless Framework: SQS](https://www.serverless.com/framework/docs/providers/aws/events/sqs)
-  - [Serverless Framework: SNS](https://www.serverless.com/framework/docs/providers/aws/events/sns)
+  - [AWS CDK: SQS](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_sqs-readme.html)
+  - [AWS CDK: SNS](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_sns-readme.html)
   </blockquote>
 
 </details>
