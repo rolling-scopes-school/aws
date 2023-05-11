@@ -25,7 +25,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 7.1
 
-1. Create a new service called `authorization-service` at the same level as Product and Import services with its own `serverless.yml` file. The backend project structure should look like this:
+1. Create a new service called `authorization-service` at the same level as Product and Import services with its own AWS CDK Stack. The backend project structure should look like this:
 
 ```
    backend-repository
@@ -34,7 +34,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
       authorization-service
 ```
 
-2. Create a lambda function called `basicAuthorizer` under the same Serverless config file (i.e. `serverless.yaml`) of the Authorization Service.
+2. Create a lambda function called `basicAuthorizer` under the Authorization Service.
 3. This lambda should have at least one environment variable with the following credentials:
 
 ```
@@ -48,7 +48,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 3. This `basicAuthorizer` lambda should take _Basic Authorization_ token, decode it and check that credentials provided by token exist in the lambda environment variable.
 4. This lambda should return 403 HTTP status if access is denied for this user (invalid `authorization_token`) and 401 HTTP status if Authorization header is not provided.
 
-_NOTE: Do not send your credentials to the GitHub. Use `.env` file and `serverless-dotenv-plugin` serverless plugin to add environment variables to the lambda. Add `.env` file to `.gitignore` file._
+_NOTE: Do not send your credentials to the GitHub. Use `.env` file and `dotenv` package to add environment variables to the lambda. Add `.env` file to `.gitignore` file._
 
 ```
   .env file example:
@@ -89,8 +89,8 @@ _NOTE: Do not send your credentials to the GitHub. Use `.env` file and `serverle
 
 Provide your reviewers with the link to the repo, client application and URLs to execute the `/import` path of the Import Service`
 
-- `authorization-service` is added to the repo, has correct `basicAuthorizer` lambda and correct `serverless.yaml` file
-- Import Service `serverless.yaml` file has authorizer configuration for the `importProductsFile` lambda. Request to the `importProductsFile` lambda should work only with correct `authorization_token` being decoded and checked by `basicAuthorizer` lambda. Response should be in 403 HTTP status if access is denied for this user (invalid `authorization_token`) and in 401 HTTP status if Authorization header is not provided.
+- `authorization-service` is added to the repo, has correct `basicAuthorizer` lambda and correct AWS CDK Stack
+- Import Service AWS CDK Stack has authorizer configuration for the `importProductsFile` lambda. Request to the `importProductsFile` lambda should work only with correct `authorization_token` being decoded and checked by `basicAuthorizer` lambda. Response should be in 403 HTTP status if access is denied for this user (invalid `authorization_token`) and in 401 HTTP status if Authorization header is not provided.
 - Client application is updated to send "Authorization: Basic `authorization_token`" header on import. Client should get `authorization_token` value from browser [localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage)
 
 ## Additional (optional) tasks
