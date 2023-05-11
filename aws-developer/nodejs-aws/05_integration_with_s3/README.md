@@ -70,7 +70,6 @@ The following content provides enough info to complete the task.
   - [Deep dive on Amazon S3](https://www.youtube.com/watch?v=FJJxcwSfWYg), ~47 mins
   - [AWS S3 File Upload + Lambda Trigger Tutorial](https://www.youtube.com/watch?v=OJrxbr9ebDE), 13mins
   - [AWS S3 Signed URL Visual Explanation](https://www.youtube.com/watch?v=cog0r-PvGM4), 6mins
-  - [Serverless Framework and AWS S3 Signed URL with](https://www.youtube.com/watch?v=rIQM30rz_0c), 16mins
 </blockquote>
 
 </details>
