@@ -43,7 +43,7 @@ Stock model:
 
 ### Task 4.2
 
-1. Extend your `serverless.yml` file with data about your database table and pass it to lambda’s environment variables section.
+1. Extend your AWS CDK Stack with data about your database table and pass it to lambda’s environment variables section.
 2. Integrate the `getProductsList` lambda to return via GET `/products` request a list of products from the database (joined stocks and products tables).
 3. Implement a Product model on FE side as a joined model of product and stock by `productId`. For example:
 
@@ -85,7 +85,7 @@ _NOTE: This setup means User cannot buy more than `product.count` (no more items
 
 ### Task 4.3
 
-1. Create a lambda function called `createProduct` under the same Serverless config file (i.e. `serverless.yaml`) of Product Service which will be triggered by the HTTP POST method.
+1. Create a lambda function called `createProduct` under the Product Service which will be triggered by the HTTP POST method.
 2. The requested URL should be `/products`.
 3. Implement its logic so it will be creating a new item in a Products table.
 4. Save the URL (API Gateway URL) to execute the implemented lambda functions for later - you'll need to provide it in the PR (e.g in PR's description) when submitting the task.
@@ -114,7 +114,7 @@ Reviewers should verify the lambda functions by invoking them through provided U
 - **+6** **(All languages)** - POST `/products` lambda functions returns error 400 status code if product data is invalid
 - **+6** **(All languages)** - All lambdas return error 500 status code on any error (DB connection, any unhandled error in code)
 - **+6** **(All languages)** - All lambdas do `console.log` for each incoming requests and their arguments
-- **+6** **(All languages)** - Use RDS instance instead fo DynamoDB tables. **Do not commit your environment variables in serverless.yml to github!**
+- **+6** **(All languages)** - Use RDS instance instead of DynamoDB tables. **Do not commit your environment variables to github!**
 - **+6** **(All languages)** - Transaction based creation of product (in case stock creation is failed then related to this stock product is not created and not ready to be used by the end user and vice versa) (https://devcenter.kinvey.com/nodejs/tutorials/bl-transactional-support, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html)
 
 ## Description Template for PRs
