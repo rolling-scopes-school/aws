@@ -9,7 +9,6 @@ Explore different serverless-related services like Lambda, API Gateway, etc.
 # Topics
 
 - AWS Lambda Overview
-- Serverless Framework and Lambda
 - Introduction to Collecting logs with AWS CloudWatch
 - Lambda Advanced Features and Configuration
 
@@ -86,9 +85,8 @@ Explore different serverless-related services like Lambda, API Gateway, etc.
   - [AWS Lambda Features](https://aws.amazon.com/lambda/features/)
   - [AWS Lambda FAQs](https://aws.amazon.com/lambda/faqs/)
   - [What is Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
-  - [Serverless Framework: Deploying to AWS](https://www.serverless.com/framework/docs/providers/aws/guide/deploying)
-  - [Serverless Framework: AWS Lambda Functions](https://www.serverless.com/framework/docs/providers/aws/guide/functions)
-  - [Serverless Framework: AWS Lambda Events](https://www.serverless.com/framework/docs/providers/aws/guide/events)
+  - [Creating a serverless application using the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/serverless_example.html)
+  - [AWS CDK Workshop](https://cdkworkshop.com/)
   </blockquote>
 
 </details>
@@ -105,8 +103,6 @@ Explore different serverless-related services like Lambda, API Gateway, etc.
   - [Amazon API Gateway concepts](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-basic-concept.html)
   - [Tutorial: Build a Hello World REST API with Lambda proxy integration](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html)
   - [Enabling CORS for a REST API resource](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html)
-  - [Serverless Framework: CORS and API Gateway Survival Guide](https://www.serverless.com/blog/cors-api-gateway-survival-guide)
-  - [Serverless.yml Reference](https://www.serverless.com/framework/docs/providers/aws/guide/serverless.yml)
   </blockquote>
 
 </details>

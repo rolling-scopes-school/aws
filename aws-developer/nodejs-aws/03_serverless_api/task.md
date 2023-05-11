@@ -4,15 +4,15 @@
 
 ---
 
-- **Install** the latest version of Serverless Framework (https://www.serverless.com/).
-- **Configure** credentials for AWS to make them accessible by Serverless.
+- **Install** the latest version of AWS CDK (https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html).
+- **Configure** credentials for AWS to make them accessible by AWS CLI & CDK.
 - **Create** your **own public Github repository** for all future backend work (you might call it how you would like). You will have 2 repos - 1 for frontend, 1 for backend till the end of course.
 
 _NOTE: You should create branch from master and work in branch (f.e. branch name - task-3) in BE (backend) and in FE (frontend) repositories._
 
 _NOTE: Don't forget to add dynamic product representation on FE side._
 
-_NOTE: This microservice needs to be created using Serverless Framework, AWS API Gateway, AWS Lambda._
+_NOTE: This microservice needs to be created using AWS CDK, AWS API Gateway, AWS Lambda._
 
 ## Architecture
 
@@ -33,14 +33,14 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 3.1
 
-1. Create a lambda function called `getProductsList` under the same Serverless config file (i.e. `serverless.yaml`) of Product Service which will be triggered by the HTTP GET method.
+1. Create a lambda function called `getProductsList` under the Product Service which will be triggered by the HTTP GET method.
 2. The requested URL should be `/products`.
 3. The response from the lambda should be a _full_ array of products (mock data should be used - this mock data should be stored in Product Service).
 4. This endpoint should be integrated with Frontend app for _PLP_ (Product List Page) representation.
 
 ### Task 3.2
 
-1. Create a lambda function called `getProductsById` under the same Serverless config file (i.e. `serverless.yaml`) of Product Service which will be triggered by the HTTP GET method.
+1. Create a lambda function called `getProductsById` under the Product Service which will be triggered by the HTTP GET method.
 2. The requested URL should be `/products/{productId}` (what `productId` is in your application is up to you - productName, UUID, etc.).
 3. The response from the lambda should be 1 searched product from an array of products (mock data should be used - this mock data should be stored in Product Service).
 4. This endpoint is not needed to be integrated with Frontend right now.
@@ -57,7 +57,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 Reviewers should verify the lambda functions by invoking them through provided URLs.
 
-- Product Service Serverless config contains configuration for 2 lambda functions, API is not working at all, but YAML configuration is correct
+- Product Service contains configuration for 2 lambda functions, API is not working at all, but configuration is correct
 - The `getProductsList` OR `getProductsById` lambda function returns a correct response (POINT1)
 - The `getProductsById` AND `getProductsList` lambda functions return a correct response code (POINT2)
 - Your own Frontend application is integrated with Product Service (`/products` API) and products from Product Service are represented on Frontend. AND POINT1 and POINT2 are done.
@@ -68,7 +68,7 @@ Reviewers should verify the lambda functions by invoking them through provided U
 
 - **+5** - Async/await is used in lambda functions
 - **+5** - ES6 modules are used for Product Service implementation
-- **+4** - Custom Webpack/ESBuild/etc is manually configured for Product Service. Not applicable for preconfigured/built-in bundlers that come with templates, plugins, etc. 
+- **+4** - Webpack/ESBuild/etc is configured for Product Service. 
 - **+4** **(All languages)** - SWAGGER documentation is created for Product Service
 - **+4** **(All languages)** - Lambda handlers are covered by basic UNIT tests (NO infrastructure logic is needed to be covered)
 - **+4** **(All languages)** - Lambda handlers (`getProductsList`, `getProductsById`) code is written not in 1 single module (file) and separated in codebase.
