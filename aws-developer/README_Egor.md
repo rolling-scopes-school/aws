@@ -1,15 +1,5 @@
 # AWS Cloud Developer Course
 
-During this course, students will have the opportunity to earn publically-recognized RS and AWS badges and certifications, such as:
-- RS School certification - AWS Cloud Developer
-- AWS Serverless badge
-- AWS Certified Developer - Associate certificate
-- [Optional] AWS Cloud Quest - Solutions Architect
-- [Optional] AWS Cloud Quest - Serverless Developer
-- [Optional] AWS Cloud Quest - Machine Learning
-- [Optional] AWS Cloud Quest - Security
-- [Optional] AWS Cloud Quest - Data Analytics
-
 ### Theory
 
 ### Networking Advanced
@@ -33,16 +23,6 @@ Earn an AWS digital badge, issued through Credly, that you can share with your n
 🏆 **Earn verifiable AWS digital badge - Serverless**
 
 ### Practice
-
-### Cloud Introduction - General Webapp
-
-This workshop is a hands-on tutorial of building a website on AWS. You will learn how to build a high-availability application on AWS using the AWS Management Console.
-
-👨🏻‍🏫  👉 
-
-🧑🏻‍💻 👉 [https://general-webapp.workshop.aws/](https://general-webapp.workshop.aws/)
-
-🎥 🧑🏻‍💻 👉 [https://youtu.be/uxiILVv_odg](https://youtu.be/uxiILVv_odg)
 
 ### SAM
 
@@ -113,5 +93,3 @@ In this builders’ session, learn how to build and deploy a globally distribute
 🧑🏻‍💻 👉 [https://catalog.workshops.aws/global-serverless/en-US](https://catalog.workshops.aws/global-serverless/en-US)
 
 🎥 🧑🏻‍💻 👉
-
-#
