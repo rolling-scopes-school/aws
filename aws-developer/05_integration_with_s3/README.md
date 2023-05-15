@@ -111,4 +111,4 @@ The following content provides enough info to complete the task.
 
 # Assignments
 
-[AWS Simple Storage Service - S3](./task.md)
+[AWS Simple Storage Service - S3](task.md)

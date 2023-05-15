@@ -102,4 +102,4 @@
 
 # Assignments
 
-[Docker. AWS Elastic Beanstalk](./task.md)
+[Docker. AWS Elastic Beanstalk](task.md)

@@ -109,4 +109,4 @@ Explore different serverless-related services like Lambda, API Gateway, etc.
 
 # Assignments
 
-[First API with AWS API Gateway and AWS Lambda](./task.md)
+[First API with AWS API Gateway and AWS Lambda](task.md)

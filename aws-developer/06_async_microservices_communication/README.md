@@ -105,4 +105,4 @@
 
 # Assignments
 
-[AWS SQS/SNS](./task.md)
+[AWS SQS/SNS](task.md)

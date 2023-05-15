@@ -100,4 +100,4 @@
 
 # Assignments
 
-[Lambda Authorizer + Cognito Authorization](./task.md)
+[Lambda Authorizer + Cognito Authorization](task.md)

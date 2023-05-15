@@ -9,7 +9,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
   The following image provides more info about task focus.
 
-  <img src="./module_focus.png" />
+  <img src="module_focus.png" />
 
 </details>
 
