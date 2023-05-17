@@ -26,6 +26,11 @@ No IT prerequisites required
 
 We are excited to have you on this journey and look forward to supporting you in your learning. Let's get started!
 
+## Warning about SkillBuilder links
+The SkillBuilder site has very strange behavior with referer handling.  
+So you will be correctly redirected if you click at SkillBuilder link from https://github.com/rolling-scopes-school/aws/aws-fundamentals.  
+But you will get 403 error page if you click SkillBuilder link from https://github.com/rolling-scopes-school/aws/blob/main/aws-fundamentals/README.md.  
+
 ## Schedule
 
 ### RS APP Schedule
