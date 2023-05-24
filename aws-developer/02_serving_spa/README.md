@@ -74,17 +74,6 @@
    - [React App on AWS S3 with Static Hosting + Cloudfront](https://www.youtube.com/watch?v=mls8tiiI3uc), ~35 mins
    </blockquote>
    </details>
-
-  <details>
-    <summary>In Russian</summary>
-   <blockquote>
-
-   - [RU Serverless Framework Intro](https://videoportal.epam.com/video/4MNVYj1EEMm3Lgv5a0eE), ~2 mins
-   - [RU Serverless & CloudFront](https://videoportal.epam.com/video/B9Ry76DWWwVng509Y8xq), ~20 mins
-   - [RU Deploy to S3 with serverless](https://videoportal.epam.com/video/elN67KVllzb99gb3JVZz), ~32 mins
-   </blockquote>
-  </details>
-  
   </blockquote>
 
 </details>
