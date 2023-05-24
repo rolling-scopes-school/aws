@@ -46,11 +46,8 @@
    - [RU Introduction](https://videoportal.epam.com/video/1g5mYRkyL8KMd4oPJWoD), ~3 mins
    - [RU S3 Intro](https://videoportal.epam.com/video/wPQe73vEnLBglxqOJAqn), ~2 mins
    - [RU CloudFront Intro](https://videoportal.epam.com/video/MNnV7g033NDoBklWa0b3), ~4 mins
-   - [RU Serverless Framework Intro](https://videoportal.epam.com/video/4MNVYj1EEMm3Lgv5a0eE), ~2 mins
    - [RU Manual Deployment to S3](https://videoportal.epam.com/video/MRwdYoVggXxDNDr4a3bL), ~16 mins
-   - [RU Deploy to S3 with serverless](https://videoportal.epam.com/video/elN67KVllzb99gb3JVZz), ~32 mins
    - [RU AWS CLI Intro](https://videoportal.epam.com/video/Dj6qaB2WWGqqk06ragPW), ~1 mins
-   - [RU Serverless & CloudFront](https://videoportal.epam.com/video/B9Ry76DWWwVng509Y8xq), ~20 mins
    - [RU Homework](https://videoportal.epam.com/video/Vr9Q7zywwrmgVG9mJMpG), ~3 mins
    </blockquote>
   </details>
@@ -65,12 +62,29 @@
   The following content provides more info for further studies.
 
   <blockquote>
+  
+  <details>
+    <summary>In English</summary>
+   <blockquote>
 
-  - [Free and Easy guide how to host website on AWS Cloud in 5 minutes](https://youtu.be/4AYF_Vo36sU), ~4mins
-  - [AWS S3 Core Concepts](https://www.youtube.com/watch?v=tfU0JEZjcsg), 27 mins
-  - [AWS S3 Hands-On Tutorial](https://www.youtube.com/watch?v=XGcoeEyt2UM), ~45 mins
-  - [AWS CloudFront Hands-On Tutorial](https://www.youtube.com/watch?v=Vr4N_ZA-uGo), ~15 mins
-  - [React App on AWS S3 with Static Hosting + Cloudfront](https://www.youtube.com/watch?v=mls8tiiI3uc), ~35 mins
+   - [Free and Easy guide how to host website on AWS Cloud in 5 minutes](https://youtu.be/4AYF_Vo36sU), ~4mins
+   - [AWS S3 Core Concepts](https://www.youtube.com/watch?v=tfU0JEZjcsg), 27 mins
+   - [AWS S3 Hands-On Tutorial](https://www.youtube.com/watch?v=XGcoeEyt2UM), ~45 mins
+   - [AWS CloudFront Hands-On Tutorial](https://www.youtube.com/watch?v=Vr4N_ZA-uGo), ~15 mins
+   - [React App on AWS S3 with Static Hosting + Cloudfront](https://www.youtube.com/watch?v=mls8tiiI3uc), ~35 mins
+   </blockquote>
+   </details>
+
+  <details>
+    <summary>In Russian</summary>
+   <blockquote>
+
+   - [RU Serverless Framework Intro](https://videoportal.epam.com/video/4MNVYj1EEMm3Lgv5a0eE), ~2 mins
+   - [RU Serverless & CloudFront](https://videoportal.epam.com/video/B9Ry76DWWwVng509Y8xq), ~20 mins
+   - [RU Deploy to S3 with serverless](https://videoportal.epam.com/video/elN67KVllzb99gb3JVZz), ~32 mins
+   </blockquote>
+  </details>
+  
   </blockquote>
 
 </details>
