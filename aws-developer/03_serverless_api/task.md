@@ -40,7 +40,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 3.2
 
-1. Create a lambda function called `getProductsById` under the Product Service which will be triggered by the HTTP GET method.
+1. Create a lambda function called `getProductsById` under the same AWS CDK Stack file of Product Service which will be triggered by the HTTP GET method.
 2. The requested URL should be `/products/{productId}` (what `productId` is in your application is up to you - productName, UUID, etc.).
 3. The response from the lambda should be 1 searched product from an array of products (mock data should be used - this mock data should be stored in Product Service).
 4. This endpoint is not needed to be integrated with Frontend right now.
