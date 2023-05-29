@@ -33,7 +33,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 3.1
 
-1. Create a lambda function called `getProductsList` under the Product Service which will be triggered by the HTTP GET method.
+1. Create a lambda function called `getProductsList` under the same AWS CDK Stack file of Product Service which will be triggered by the HTTP GET method.
 2. The requested URL should be `/products`.
 3. The response from the lambda should be a _full_ array of products (mock data should be used - this mock data should be stored in Product Service).
 4. This endpoint should be integrated with Frontend app for _PLP_ (Product List Page) representation.
