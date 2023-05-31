@@ -66,7 +66,7 @@ Reviewers should verify the lambda functions by invoking them through provided U
 
 ---
 
-- **+4** **(All languages)** - SWAGGER documentation is created for Product Service
+- **+4** **(All languages)** - Swagger documentation is created for Product Service. This can be for example `openapi.(json|yaml)` added to the repository, that can be rendered by https://editor.swagger.io/
 - **+4** **(All languages)** - Lambda handlers are covered by basic UNIT tests (NO infrastructure logic is needed to be covered)
 - **+4** **(All languages)** - Lambda handlers (`getProductsList`, `getProductsById`) code is written not in 1 single module (file) and separated in codebase.
 - **+4** **(All languages)** - Main error scenarios are handled by API ("Product not found" error).
@@ -90,4 +90,4 @@ The following should be present in PR's description field:
 2. Link to Product Service API - .....
 3. Link to FE PR (YOUR OWN REPOSITORY) - ...
 
-4. In case SWAGGER file is not provided - please provide product schema in PR description
+4. In case Swagger file is not provided - please provide product schema in PR description
