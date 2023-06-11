@@ -72,6 +72,8 @@
   - [What is AWS Dynamo DB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
   - [Setting up DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SettingUp.html)
   - [AWS DynamoDB FAQs](https://aws.amazon.com/ru/dynamodb/faqs/)
+  - [AWS SDK JS v3 - Developer Guide](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/welcome.html)
+  - [AWS SDK JS v3 - API Reference](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/index.html)
   </blockquote>
 
 </details>
@@ -86,6 +88,7 @@
   - [Best practices for Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)
   - [Using Amazon RDS with Amazon VPC](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.html)
   - [A guide to understanding database scaling patterns](https://www.freecodecamp.org/news/understanding-database-scaling-patterns/)
+  - [AWS SDK for JavaScript examples](https://github.com/aws-samples/aws-sdk-js-notes-app)
   </blockquote>
 
 </details>
