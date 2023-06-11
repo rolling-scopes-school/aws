@@ -5,8 +5,8 @@
 ---
 
 - The task is a continuation of Homework 4 and should be done in the same repos
-- **(for JS only)** Install the latest version of AWS SDK (https://aws.amazon.com/sdk-for-node-js/)
-- **(for JS only)** Install the CSV parser package (https://www.npmjs.com/package/csv-parser)
+- **(for JS only)** Install the latest version of [AWS SDK](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/getting-started-nodejs.html)
+- **(for JS only)** Install the [CSV parser package](https://www.npmjs.com/package/csv-parser)
 
 ## Architecture
 
@@ -75,10 +75,9 @@ Reviewers should verify the lambda functions by invoking them through provided U
 
 ---
 
-- **+10** **(for JS only)** - **async/await** is used in lambda functions
-- **+10** **(All languages)** - `importProductsFile` lambda is covered by _unit tests_.
+- **+15** **(All languages)** - `importProductsFile` lambda is covered by _unit tests_.
   (for JS only) [aws-sdk-mock](https://www.npmjs.com/package/aws-sdk-mock) can be used to mock S3 methods
-- **+10** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
+- **+15** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
 
 ## Description Template for PRs
 
