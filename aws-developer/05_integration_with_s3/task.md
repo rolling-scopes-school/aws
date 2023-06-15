@@ -27,7 +27,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 5.1
 
-1. Create a new service called `import-service` at the same level as Product Service with a its own AWS CDK Stack. The backend project structure should look like this:
+1. Create a new service called `import-service` at the same level as Product Service with its own AWS CDK Stack. The backend project structure should look like this:
 
 ```
    backend-repository
