@@ -19,7 +19,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 8.1
 
-1. Fork a copy of [Cart Service template repository](https://github.com/boale/rs-cart-api)
+1. Fork a copy of [Cart Service template repository](https://github.com/rolling-scopes-school/nodejs-aws-cart-api)
 2. Use the guide (https://docs.nestjs.com/faq/serverless) to integrate Nest.js application with serverless. 
 3. Deploy your code to AWS Lambda
 
