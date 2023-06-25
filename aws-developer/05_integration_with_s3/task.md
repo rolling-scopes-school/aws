@@ -75,9 +75,10 @@ Reviewers should verify the lambda functions by invoking them through provided U
 
 ---
 
-- **+15** **(All languages)** - `importProductsFile` lambda is covered by _unit tests_.
-  (for JS only) [aws-sdk-mock](https://www.npmjs.com/package/aws-sdk-mock) can be used to mock S3 methods
-- **+15** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
+- **+10** **(All languages)** - `importProductsFile` lambda is covered by _unit tests_.
+  You should consider to mock S3 and other AWS SDK methods so not trigger actual AWS services while unit testing.
+- **+10** **(All languages)** - `importFileParser` lambda is covered by _unit tests_.
+- **+10** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
 
 ## Description Template for PRs
 
