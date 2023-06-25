@@ -66,10 +66,10 @@ Reviewers should verify the lambda functions by invoking them through provided U
 
 ---
 
-- **+4** **(All languages)** - SWAGGER documentation is created for Product Service
-- **+4** **(All languages)** - Lambda handlers are covered by basic UNIT tests (NO infrastructure logic is needed to be covered)
-- **+4** **(All languages)** - Lambda handlers (`getProductsList`, `getProductsById`) code is written not in 1 single module (file) and separated in codebase.
-- **+4** **(All languages)** - Main error scenarios are handled by API ("Product not found" error).
+- **+7.5** **(All languages)** - SWAGGER documentation is created for Product Service
+- **+7.5** **(All languages)** - Lambda handlers are covered by basic UNIT tests (NO infrastructure logic is needed to be covered)
+- **+7.5** **(All languages)** - Lambda handlers (`getProductsList`, `getProductsById`) code is written not in 1 single module (file) and separated in codebase.
+- **+7.5** **(All languages)** - Main error scenarios are handled by API ("Product not found" error).
 
 ## Description Template for PRs
 
