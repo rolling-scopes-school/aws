@@ -60,7 +60,7 @@ Cart Item model:
 ### Task 8.3
 
 1. Update source code in the application to use PostgreSQL instead of memory storage.
-- You can make integration with [Typeorm](https://typeorm.io/).
+- You can make integration by using [Typeorm](https://typeorm.io/).
 - Or you can use a simpler library such as [pg](https://node-postgres.com/).
 2. Integrate with RDS
 3. Extend your AWS CDK Stack file with credentials to your database instance and pass it to lambda’s environment variables section.
@@ -106,7 +106,7 @@ Set `status` to 'ORDERED' after checkout instead of cart deletion.
 
 ## Penalties
 
-- **-50** - Serverless Framework used to create and deplot infrastructure
+- **-50** - Serverless Framework used to create and deploy infrastructure
 
 ## Description Template for PRs
 
