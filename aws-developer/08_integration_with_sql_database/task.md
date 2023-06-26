@@ -106,6 +106,10 @@ Set `status` to 'ORDERED' after checkout instead of cart deletion.
 
 ## Penalties
 
+
+---
+
+
 - **-50** - Serverless Framework used to create and deploy infrastructure
 
 ## Description Template for PRs
