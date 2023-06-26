@@ -20,7 +20,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 ### Task 8.1
 
 1. Fork a copy of [Cart Service template repository](https://github.com/rolling-scopes-school/nodejs-aws-cart-api)
-2. Use the guide (https://docs.nestjs.com/faq/serverless) to integrate Nest.js application with serverless. 
+2. Use the guide (https://docs.nestjs.com/faq/serverless) to wrap Nest.js application to AWS Lambda, but replace Serverless Framework with AWS CDK to create and deploy your lamda as you already did in [task 3](../03_serverless_api/task.md)
 3. Deploy your code to AWS Lambda
 
 _Actually, it's not recommended having routing inside AWS Lambda, since it can be done by other services such as API Gateway.
@@ -60,10 +60,10 @@ Cart Item model:
 ### Task 8.3
 
 1. Update source code in the application to use PostgreSQL instead of memory storage.
-- [Here](https://github.com/angry-coconut/nestjs-typeorm-example) you can find example of itegration with typeorm.
-- Or you can use a simpler library such as [pg](https://www.npmjs.com/package/pg).
+- You can make integration with [Typeorm](https://typeorm.io/).
+- Or you can use a simpler library such as [pg](https://node-postgres.com/).
 2. Integrate with RDS
-3. Extend your `serverless.yml` file with credentials to your database instance and pass it to lambda’s environment variables section.
+3. Extend your AWS CDK Stack file with credentials to your database instance and pass it to lambda’s environment variables section.
 
 ### Task 8.4
 
@@ -103,6 +103,10 @@ Set `status` to 'ORDERED' after checkout instead of cart deletion.
 - **+4** **(All languages)** - Create users table and integrate with it
 - **+3** **(All languages)** - Transaction based creation of checkout
 - **+3** **(All languages)** - Integrate Cart service with FE repository
+
+## Penalties
+
+- **-50** - Serverless Framework used to create and deplot infrastructure
 
 ## Description Template for PRs
 
