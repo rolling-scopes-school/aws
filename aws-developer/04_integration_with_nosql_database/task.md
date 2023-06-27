@@ -111,11 +111,10 @@ Reviewers should verify the lambda functions by invoking them through provided U
 
 ---
 
-- **+6** **(All languages)** - POST `/products` lambda functions returns error 400 status code if product data is invalid
-- **+6** **(All languages)** - All lambdas return error 500 status code on any error (DB connection, any unhandled error in code)
-- **+6** **(All languages)** - All lambdas do `console.log` for each incoming requests and their arguments
-- **+6** **(All languages)** - Use RDS instance instead of DynamoDB tables. **Do not commit your environment variables to github!**
-- **+6** **(All languages)** - Transaction based creation of product (in case stock creation is failed then related to this stock product is not created and not ready to be used by the end user and vice versa) (https://devcenter.kinvey.com/nodejs/tutorials/bl-transactional-support, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html)
+- **+7.5** **(All languages)** - POST `/products` lambda functions returns error 400 status code if product data is invalid
+- **+7.5** **(All languages)** - All lambdas return error 500 status code on any error (DB connection, any unhandled error in code)
+- **+7.5** **(All languages)** - All lambdas do `console.log` for each incoming requests and their arguments
+- **+7.5** **(All languages)** - Transaction based creation of product (in case stock creation is failed then related to this stock product is not created and not ready to be used by the end user and vice versa) (https://devcenter.kinvey.com/nodejs/tutorials/bl-transactional-support, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html)
 
 ## Description Template for PRs
 

@@ -5,8 +5,8 @@
 ---
 
 - The task is a continuation of Homework 4 and should be done in the same repos
-- **(for JS only)** Install the latest version of AWS SDK (https://aws.amazon.com/sdk-for-node-js/)
-- **(for JS only)** Install the CSV parser package (https://www.npmjs.com/package/csv-parser)
+- **(for JS only)** Install the latest version of [AWS SDK](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/getting-started-nodejs.html)
+- **(for JS only)** Install the [CSV parser package](https://www.npmjs.com/package/csv-parser)
 
 ## Architecture
 
@@ -27,7 +27,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 5.1
 
-1. Create a new service called `import-service` at the same level as Product Service with a its own AWS CDK Stack. The backend project structure should look like this:
+1. Create a new service called `import-service` at the same level as Product Service with its own AWS CDK Stack. The backend project structure should look like this:
 
 ```
    backend-repository
@@ -49,7 +49,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 5.3
 
-1. Create a lambda function called `importFileParser` under he Import Service which will be triggered by an S3 event.
+1. Create a lambda function called `importFileParser` under the Import Service which will be triggered by an S3 event.
 2. The event should be `s3:ObjectCreated:*`
 3. Configure the event to be fired only by changes in the `uploaded` folder in S3.
 4. The lambda function should use a _readable stream_ to get an object from S3, parse it using `csv-parser` package and log each record to be shown in CloudWatch.
@@ -75,9 +75,9 @@ Reviewers should verify the lambda functions by invoking them through provided U
 
 ---
 
-- **+10** **(for JS only)** - **async/await** is used in lambda functions
 - **+10** **(All languages)** - `importProductsFile` lambda is covered by _unit tests_.
-  (for JS only) [aws-sdk-mock](https://www.npmjs.com/package/aws-sdk-mock) can be used to mock S3 methods
+  You should consider to mock S3 and other AWS SDK methods so not trigger actual AWS services while unit testing.
+- **+10** **(All languages)** - `importFileParser` lambda is covered by _unit tests_.
 - **+10** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
 
 ## Description Template for PRs
