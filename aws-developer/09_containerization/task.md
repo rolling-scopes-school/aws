@@ -26,7 +26,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 ### Task 9.1
 
-1. Fork a copy of [Cart Service template repository](https://github.com/rolling-scopes-school/nodejs-aws-cart-api)
+1. Fork a copy of [Cart Service template repository](https://github.com/rolling-scopes-school/nodejs-aws-cart-api) if you have not done it yet
 
 2. **Create** Dockerfile that will build a docker image to run the Cart Service. 
 
