@@ -58,7 +58,6 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 1. Deploy BFF Service with Elastic Beanstalk.
 
-- Platform should be _Node.js_
 - Application name must follow the following convention `{yours_github_account_login}-bff-api`
 - Use the `--cname` option `{yours_github_account_login}-bff-api-{environment_name}`
 - Use the `--single` option
