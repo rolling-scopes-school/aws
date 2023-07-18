@@ -4,13 +4,11 @@
 
 ---
 
-_NOTE: This should have already been done in Task 1, but as a reminder._
-
-- **Install** the latest version of AWS CDK (https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html).
-- **Configure** credentials for AWS to make them accessible AWS CLI & CDK.
+- **Install** the latest version of AWS CDK (https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
+- **Configure** credentials for AWS to make them accessible AWS CLI & CDK
 - **Fork** React Shop single page app from https://github.com/rolling-scopes-school/nodejs-aws-shop-react
-- **Install** dependencies…
-- **Check** if everything works for you...
+- **Install** dependencies
+- **Check** if everything works for you
 
 ## Architecture
 
@@ -54,8 +52,8 @@ _NOTE: Now that you have this plugin you don’t need to manually create CloudFr
 ### Task 2.3
 
 1. Store the links to CloudFront URL and S3-website in README.md file.
-2. Commit all your work to separate branch (e.g. `task-2` from the latest `master`) in your own repository.
-3. Create a pull request to the `master` branch.
+2. Commit all your work to separate branch (e.g. `task-2` from the latest `main`) in your own repository.
+3. Create a pull request to the `main` branch.
 4. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
 ## Evaluation criteria (70 points for covering all criteria)
