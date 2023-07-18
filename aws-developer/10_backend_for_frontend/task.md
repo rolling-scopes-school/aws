@@ -36,7 +36,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
       bff-service
 ```
 
-2. Create an `NestJS` application in this folder, that listens for all requests and redirects those requests to the appropriate services based on variables provided by the `.env` file.
+2. Create an application in this folder, that listens for all requests and redirects those requests to the appropriate services based on variables provided by the `.env` file.
 
 3. Here's the workflow example that BFF Service should support:
 
@@ -58,7 +58,6 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 1. Deploy BFF Service with Elastic Beanstalk.
 
-- Platform should be _Node.js_
 - Application name must follow the following convention `{yours_github_account_login}-bff-api`
 - Use the `--cname` option `{yours_github_account_login}-bff-api-{environment_name}`
 - Use the `--single` option
@@ -87,7 +86,7 @@ Provide your reviewers with the following information:
 
 ---
 
-- A working and correct `NestJS` application should be in the `bff-service` folder. Reviewer can start this application locally with any valid configuration in the `.env` file and this application should works as described in the Task 10.1
+- A working and correct application should be in the `bff-service` folder. Reviewer can start this application locally with any valid configuration in the `.env` file and this application should works as described in the Task 10.1
 - The BFF Service should be deployed with Elastic Beanstalk. The BFF Service call should be redirected to the appropriate service : Product Service or Cart Service. The response from the BFF Service should be the same as if Product Service or Cart Service services were called directly.
 
 ## Application Functionality (**MUST HAVE**)
