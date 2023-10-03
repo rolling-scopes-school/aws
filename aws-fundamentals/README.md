@@ -53,10 +53,10 @@ https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cl
 In this course, you will learn how to buy AWS Cloud effectively, from the very start of the procurement effort. The course includes an in-depth review of cloud acquisition best practices, the benefits of working with the AWS Partner Network (APN), and how to overcome common challenges. The course aims to upskill you with the key acquisition knowledge you need to speak to all stakeholders in your organization and help maximize the benefits of cloud adoption.
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1575/getting-started-with-cloud-acquisition
 
-- AWS Well-Architected - 1.5h. 
+- AWS Well-Architected - 3h. 
 
-This course teaches our customers about the AWS Well-Architected Framework to understand how they can make informed decisions about their architecture in a cloud-native way and understand the impact of design decisions. By using the Well-Architected Framework, customers can understand the risks in their architecture, and learn ways to mitigate them.
-https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2045/aws-well-architected
+The AWS Well-Architected Framework helps you make informed decisions about your customers' architectures and understand the impacts of design decisions. By using this framework, you will become aware of the risks in your architecture and ways to mitigate them. This course is designed to provide a deep dive into the Well-Architected Framework and its six pillars. You will learn about the AWS Well-Architected Review process and how to use the AWS Well-Architected Tool to complete reviews.
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/108/aws-well-architected-foundations
 
 - Introduction to AWS Certification - 0.5h. 
 
