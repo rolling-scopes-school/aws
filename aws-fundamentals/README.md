@@ -64,24 +64,26 @@ This foundational-level course from Amazon Web Services (AWS) offers an overview
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6068/introduction-to-aws-certification
 
 ### Week#4
-AWS Security Fundamentals (Second Edition) - 2h. 
+- AWS Security Fundamentals (Second Edition) - 2h. 
 
 In this self-paced course, you will learn fundamental AWS cloud security concepts, including AWS access control, data encryption methods, and how network access to your AWS infrastructure can be secured. We will address and your security responsibility in the AWS cloud and the different security-oriented services available.
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/48/aws-security-fundamentals-second-edition
 
-AWS Foundations: Getting Started with the AWS Cloud Essentials - 1h. 
+- AWS Foundations: Getting Started with the AWS Cloud Essentials - 1h. 
 
-Learn about the foundations of getting started in the AWS Cloud. In this course, you learn about the AWS Cloud architecture and the services in the Compute, Storage, Database, Networking, and Security categories. This course can help you build and validate an overall understanding of the AWS Cloud, key terminology, and help advance your AWS Cloud skills.
+Learn about the foundations of getting started in the AWS Cloud. In this course, you learn about the AWS Cloud architecture and the services in the Compute, Storage, Database, Networking, and Security categories. This course can help you build and validate an overall understanding of the AWS Cloud, key terminology, and help advance your AWS Cloud skills.  
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/482/aws-foundations-getting-started-with-the-aws-cloud-essentials
 
 ### Week#5
-Practitioner Quest - 12h
-AWS Cloud Quest: Cloud Practitioner is a role-playing learning game that helps you develop practical cloud skills through interactive learning and hands-on activities using AWS services.
-🧑🏻‍💻 👉 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner
+- Practitioner Quest - 12h
+
+AWS Cloud Quest: Cloud Practitioner is a role-playing learning game that helps you develop practical cloud skills through interactive learning and hands-on activities using AWS services.  
+🧑🏻‍💻 👉 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner  
 🏆 Earn verifiable AWS digital badge - You can earn a digital badge for completing all assignments for Cloud Practitioner. AWS Cloud Quest digital badges enable you to demonstrate your solution building knowledge to recruiters, potential employers and your peers.
 
-AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C02 - English) - 1h
-The AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C02 - English). This question set aligns with the CLF-C02 version of the exam and exam guide.
+- AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C02 - English) - 1h
+
+The AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C02 - English). This question set aligns with the CLF-C02 version of the exam and exam guide.  
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english
 
 
