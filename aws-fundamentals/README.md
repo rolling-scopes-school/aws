@@ -28,7 +28,7 @@ We are excited to have you on this journey and look forward to supporting you in
 
 ## Warning about SkillBuilder links
 The SkillBuilder site has very strange behavior with referer handling.  
-So you will be correctly redirected if you click at SkillBuilder link from https://github.com/rolling-scopes-school/aws/aws-fundamentals.  
+So you will be correctly redirected if you click at SkillBuilder link from https://github.com/rolling-scopes-school/aws/tree/main/aws-fundamentals.  
 But you will get 403 error page if you click SkillBuilder link from https://github.com/rolling-scopes-school/aws/blob/main/aws-fundamentals/README.md.  
 
 ## Schedule
