@@ -75,7 +75,7 @@ Learn about the foundations of getting started in the AWS Cloud. In this course,
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/482/aws-foundations-getting-started-with-the-aws-cloud-essentials
 
 ### Week#5
-Practitioner Quest - 9h
+Practitioner Quest - 12h
 AWS Cloud Quest: Cloud Practitioner is a role-playing learning game that helps you develop practical cloud skills through interactive learning and hands-on activities using AWS services.
 🧑🏻‍💻 👉 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner
 🏆 Earn verifiable AWS digital badge - You can earn a digital badge for completing all assignments for Cloud Practitioner. AWS Cloud Quest digital badges enable you to demonstrate your solution building knowledge to recruiters, potential employers and your peers.
