@@ -81,7 +81,7 @@ AWS Cloud Quest: Cloud Practitioner is a role-playing learning game that helps y
 🏆 Earn verifiable AWS digital badge - You can earn a digital badge for completing all assignments for Cloud Practitioner. AWS Cloud Quest digital badges enable you to demonstrate your solution building knowledge to recruiters, potential employers and your peers.
 
 AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C02 - English) - 1h
-The AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C02 - English). This question set aligns with the CLF-C01 version of the exam and exam guide.
+The AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C02 - English). This question set aligns with the CLF-C02 version of the exam and exam guide.
 https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english
 
 
