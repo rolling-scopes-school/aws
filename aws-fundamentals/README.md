@@ -86,6 +86,8 @@ https://app.rs.school/course/schedule?course=aws-fundamentals-2023q3
   The AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C02 - English). This question set aligns with the CLF-C02 version of the exam and exam guide.  
   https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english
 
+### RS School Course Certificate
+To earn a course certificate, you must obtain the `AWS Cloud Quest: Cloud Practitioner` digital badge and achieve at least 70% of the top-scoring student's score.
 
 
 
