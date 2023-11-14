@@ -62,6 +62,9 @@ Reviewers should verify the lambda functions by invoking them through provided U
 - The `getProductsById` AND `getProductsList` lambda functions return a correct response code (POINT2)
 - Your own Frontend application is integrated with Product Service (`/products` API) and products from Product Service are represented on Frontend. AND POINT1 and POINT2 are done.
 
+Because our application is implemented for task 10 (bff) for correct work of frontend application you have to change 2 lines in frontend application. Example is below
+![image](https://github.com/rolling-scopes-school/aws/assets/43149261/69a05477-2b10-4c0a-8a24-136eb7139c75)
+
 ## Additional (optional) tasks
 
 ---
