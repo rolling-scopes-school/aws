@@ -114,3 +114,9 @@ _NOTE: Recommended for personal growth and further interviews, but this part wou
     - After verification and after every login you will be redirected to the Client application. URL should contain `id_token` which can be used to access the `getProductsList` lambda
     - Call `getProductsList` lambda using `id_token` as a value for the `Authorization` header
   - Remove authorization from the `getProductsList` after your task will be checked
+
+## Penalties
+
+---
+
+- **-50** - Serverless Framework used to create and deploy infrastructure

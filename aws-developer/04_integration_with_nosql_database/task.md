@@ -116,6 +116,12 @@ Reviewers should verify the lambda functions by invoking them through provided U
 - **+7.5** **(All languages)** - All lambdas do `console.log` for each incoming requests and their arguments
 - **+7.5** **(All languages)** - Transaction based creation of product (in case stock creation is failed then related to this stock product is not created and not ready to be used by the end user and vice versa) (https://devcenter.kinvey.com/nodejs/tutorials/bl-transactional-support, https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/transaction-apis.html)
 
+## Penalties
+
+---
+
+- **-50** - Serverless Framework used to create and deploy infrastructure
+
 ## Description Template for PRs
 
 ---

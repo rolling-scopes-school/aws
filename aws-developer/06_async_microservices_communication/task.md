@@ -66,6 +66,12 @@ Reviewers should verify the lambda functions, SQS and SNS topic and subscription
 - **+15** **(All languages)** - `catalogBatchProcess` lambda is covered by **unit** tests
 - **+15** **(All languages)** - set a Filter Policy for SNS `createProductTopic` in AWS CDK Stack and create an additional email subscription to distribute messages to different emails depending on the filter for any product attribute
 
+## Penalties
+
+---
+
+- **-50** - Serverless Framework used to create and deploy infrastructure
+
 ## Description Template for PRs
 
 ---

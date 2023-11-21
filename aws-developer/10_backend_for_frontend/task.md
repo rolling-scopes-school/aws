@@ -114,6 +114,12 @@ By this point your application must be able to do:
   - Wait more than 2 minutes
   - Get products list - result should have new product
 
+## Penalties
+
+---
+
+- **-50** - JS/TS Only. Express is used
+
 ## Description Template for PRs
 
 ---

@@ -80,6 +80,12 @@ Reviewers should verify the lambda functions by invoking them through provided U
 - **+10** **(All languages)** - `importFileParser` lambda is covered by _unit tests_.
 - **+10** **(All languages)** - At the end of the stream the lambda function should move the file from the `uploaded` folder into the `parsed` folder (`move the file` means that file should be copied into a new folder in the same bucket called `parsed`, and then deleted from `uploaded` folder)
 
+## Penalties
+
+---
+
+- **-50** - Serverless Framework used to create and deploy infrastructure
+
 ## Description Template for PRs
 
 ---
