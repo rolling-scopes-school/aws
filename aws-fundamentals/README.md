@@ -2,7 +2,7 @@
 - Free
 - Online
 - In English
-- Start date: September 18
+- Start date: April 25
 
 
 Welcome to our AWS Fundamentals course, designed to help you gain the knowledge required to pass the AWS Cloud Practitioner certification. 
