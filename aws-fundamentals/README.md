@@ -37,7 +37,7 @@ But you will get 403 error page if you click SkillBuilder link from https://gith
 https://app.rs.school/course/schedule?course=aws-fundamentals-2023q3
 
 ### Week#1
-- Register on the platform: https://app.rs.school/registry/student?course=aws-fundamentals-2023q3. 
+- Register on the platform: https://app.rs.school/registry/student?course=aws-fundamentals-2024q2. 
 - Join the discord chat: https://discord.gg/uWvFU2RAba  
 - Self study: https://learn.cantrill.io/p/tech-fundamentals - 9h  
 
