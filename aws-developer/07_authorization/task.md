@@ -47,6 +47,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 3. This `basicAuthorizer` lambda should take _Basic Authorization_ token, decode it and check that credentials provided by token exist in the lambda environment variable.
 4. This lambda should return 403 HTTP status if access is denied for this user (invalid `authorization_token`) and 401 HTTP status if Authorization header is not provided.
+5. In case of successfull authorizations, lambda should return IAM policy, which is enabling the invocation of desired method [Documentation](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-use-lambda-authorizer.html)
 
 _NOTE: Do not send your credentials to the GitHub. Use `.env` file and `dotenv` package to add environment variables to the lambda. Add `.env` file to `.gitignore` file._
 

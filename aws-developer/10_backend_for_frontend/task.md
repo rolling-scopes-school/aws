@@ -34,6 +34,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
       product-service
       import-service
       bff-service
+      authorization-service
 ```
 
 2. Create an application in this folder, that listens for all requests and redirects those requests to the appropriate services based on variables provided by the `.env` file.
@@ -97,7 +98,7 @@ By this point your application must be able to do:
 
 1. Products representation on Home page should be based on Product Service API.
 2. Products are coming from Product DB.
-3. Product images are not randomly generated on client side. Product image, same as another product model information should be stored on BE side in Product DB.
+3. Product images are not randomly generated on client side. Product image links, same as another product model information should be stored on BE side in Product DB.
 4. Products might be created through CSV product file import from client side.
 5. Cart might be created with appropriate product set.
 6. Auth logic should be in place
@@ -118,7 +119,7 @@ By this point your application must be able to do:
 
 ---
 
-- **-50** - JS/TS Only. Express is used
+- **-50** - Express package is used in JS/TS.
 
 ## Description Template for PRs
 

@@ -71,3 +71,4 @@ By the end of the program your application must be able to do:
     - Command example that needs to work from your terminal: `aws iam get-user --user-name=MyUser`
 
 4. Wait for the next task to be announced and help others in the chat if they have any issues
+5. Even though you'll probably use Free Tier account, it's usually a good idea to keep in mind approximate prices for resources [Link](https://aws.amazon.com/pricing/)

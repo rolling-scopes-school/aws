@@ -13,6 +13,14 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 </details>
 
+## NOTE
+
+As for the task description, RDS should be deployed with access from public network, which is not a good practice. 
+Furthermore, you'll be charged ~3$/month for public IP address attached to that RDS. 
+A better option is to deploy RDS in your VPC's private subnet with the lambda deployed in that VPC as well. 
+BUT this means that you won't have an access to RDS from your local PC. So to reach DB you'll need to
+create temporary EC2 instance with public access to reach your database if it's necessary for debug purposes. 
+
 ## Tasks
 
 ---

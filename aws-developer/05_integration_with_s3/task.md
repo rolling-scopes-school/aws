@@ -41,10 +41,10 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 1. Create a lambda function called `importProductsFile` under the Import Service which will be triggered by the HTTP GET method.
 2. The requested URL should be `/import`.
-3. Implement its logic so it will be expecting a request with a name of CSV file with products and creating a new **Signed URL** with the following key: `uploaded/${fileName}`.
+3. Implement its logic so it will be expecting a request with a name of CSV file with products and creating a new [**Signed URL**](https://docs.aws.amazon.com/AmazonS3/latest/userguide/example_s3_Scenario_PresignedUrl_section.html) with the following key: `uploaded/${fileName}`.
 4. The name will be passed in a _query string_ as a `name` parameter and should be described in the AWS CDK Stack as a _request parameter_.
 5. Update AWS CDK Stack with policies to allow lambda functions to interact with S3.
-6. The response from the lambda should be the created **Signed URL**.
+6. The response from the lambda should be clean **Signed URL**, as a string.
 7. The lambda endpoint should be integrated with the frontend by updating `import` property of the API paths configuration.
 
 ### Task 5.3

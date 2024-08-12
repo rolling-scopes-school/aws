@@ -7,6 +7,14 @@
 - **Install** the latest version of AWS CDK (https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html).
 - **Configure** credentials for AWS to make them accessible by AWS CLI & CDK.
 - **Create** your **own public Github repository** for all future backend work (you might call it how you would like). You will have 2 repos - 1 for frontend, 1 for backend till the end of course.
+Desired working tree should look somehow like this:
+├── backend
+│   ├── authorization_service <- auth service repo
+│   ├── import_service        <- import service repo
+│   └── product_service       <- product service repo
+├── cart_service              <- cart service repo
+│   ├── nodejs-aws-cart-api
+└── frontend                  <- frontend repo
 
 _NOTE: You should create branch from master and work in branch (f.e. branch name - task-3) in BE (backend) and in FE (frontend) repositories._
 
