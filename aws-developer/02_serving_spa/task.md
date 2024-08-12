@@ -2,8 +2,6 @@
 
 ## Prerequisites
 
----
-
 - **Install** the latest version of AWS CDK (https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
 - **Configure** credentials for AWS to make them accessible AWS CLI & CDK
 - **Fork** React Shop single page app from https://github.com/rolling-scopes-school/nodejs-aws-shop-react
@@ -24,8 +22,6 @@ Find the entire program architecture: [here](../Architecture.pdf).
 </details>
 
 ## Tasks
-
----
 
 ### Task 2.1
 
@@ -56,36 +52,43 @@ _NOTE: Now that you have this plugin you don’t need to manually create CloudFr
 3. Create a pull request to the `main` branch.
 4. Submit link to the pull request to Crosscheck page in [RS App](https://app.rs.school).
 
-## Evaluation criteria (70 points for covering all criteria)
+## Manual deployment evaluation criteria (70 points)
+_For those, who use AWS website to manually create **S3 Bucket**, place project files from `dist` folder, configure all necessary Policies, and create **CloudFront**_  
 
----
-- **30** - S3 bucket has been created and configured properly. The app has been uploaded to the bucket and is available though the Internet. Nothing else has been done.
-  _(Link to S3 bucket/website is provided. There is no Pull Request in the YOUR OWN frontend repository.)_
-- **40** - In addition to the previous work a CloudFront distribution is created and configured properly and the site is served now with CloudFront and is available through the Internet over CloudFront URL, not S3-website link (due to changes in bucket’s policy...).
-  _(Link to CloudFront website is provided. S3-website shows 403 Access Denied error. There is no Pull Request in the YOUR OWN frontend repository.)_
+Your _PullRequest_ will contain description of the work done:
 
-## Additional (optional) tasks
+- **30 points** - _(if this work alone is done)_ `S3 Bucket` was created and configured properly. The `Application` was uploaded to `S3 Bucket` and is available over the Internet, but the rest of the requirements are not done.  
+> _(e.g.: only a link to S3 bucket/website is provided and it opens an Application – you should evaluate as 30)_
 
----
-- **30** - S3 bucket creation, website deployment, CloudFront Distribution and Invalidation added and configured by using AWS CDK. The app can be built and deployed by running npm script command.
-  _(Link to CloudFront website is provided. PR with all changes is submitted in the YOUR OWN frontend repository and its link is provided for review.)_
 
-NOTE: YOU SHOULD WORK IN YOUR OWN FORKED REPOSITORY, NOT IN COMMON
+- **40** - _(In addition to the previous assessment)_ – a `CloudFront` distribution is created and configured properly; the `Application` is now served with `CloudFront` and is available over the Internet via `CloudFront` URL.  
 
-## Description Template for PRs
+> Due to changes in your `S3 Bucket`:  
+> - `CloudFront` URL is provided and opens a static website.  
+> - `S3 Bucket` URL shows **403 Access Denied error**.
 
----
+NOTE: _If this one is done, this means you acquire score points for both.(70 points)_
+
+
+## AWS CDK deployment evaluation criteria (+30 points) _(optional)_
+
+- **30** - `S3 Bucket` was created, `Application` was deployed, `CloudFront` Distribution and Invalidation created and configured by using `AWS CDK`. The `Application` can be built and deployed by running `npm` script commands.  
+> - `PullRequest` contains:
+> - `CloudFront` URL is provided and opens a static website 
+> - `S3 Bucket` URL shows **403 Access Denied error**
+> - description of work has been done
+
+**NOTE**: YOU SHOULD WORK IN YOUR OWN FORKED REPOSITORY, NOT IN COMMON
+
+## Pull Request Description Template
 
 The following should be present in PR's description field:
 
-1. What was done?
+1. What has been done?  
 
-   Example:
-
+Example:
 ```
-   Service is done, but FE is not working...
-
-   Additional scope - webpack, swagger, unit tests
+  - [x] Service is done, but FE is not working...
+  - [x] Additional scope - webpack, swagger, unit tests
 ```
-
-2. Link to FE PR (YOUR OWN REPOSITORY) - ...
+2. All necessary links as per task requirements...
