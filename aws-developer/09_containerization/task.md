@@ -6,6 +6,7 @@
 
 - [AWS EB CLI](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html) must be installed
 - [Docker](https://docs.docker.com/get-docker/) must be installed
+- The Lambda deployment from the previous step should be removed. EBS deployment will replace that Lambda and serve the same purpose
 
 ## Architecture
 
@@ -41,7 +42,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 - Minimize docker image size to be `less than 500 MB`.
 - Optimize image build times. Dockerfile commands that run npm install should not depend on typescript files.
 - _OPTIONAL: add more folders to `.dockerignore` with explanations_
-- _OPTIONAL: Minimize docker image size to `about 100 MB`._
+- _OPTIONAL: Minimize docker image size to `about 140 MB`._
 - _OPTIONAL: Optimize build times by utilizing multistage builds._
 - _OPTIONAL: Lint Dockerfile._
 
@@ -51,7 +52,7 @@ Find the entire program architecture: [here](../Architecture.pdf).
 
 - **Use** a `Dockerfile` from previous subtask to deploy your Cart Service using AWS Beanstalk CLI.
 - **Initiate** an Elastic Beanstalk application using the `eb init` command. Application name must follow the following convention `{yours_github_account_login}-cart-api`.
-- **Create** a new environment using the `eb create` command. An environment name must be short _but not less then four signs_ (e.g _develop_, _test_, _prod_, etc). Use the `--cname` option `{yours_github_account_login}-cart-api-{environment_name}` so that Elastic Beanstalk will use it to create a proper domain name. Use the `--single` option to not use any Load Balancer for this environment.
+- **Create** a new environment using the `eb create` command. An environment name must be short _but not less then four signs_ (e.g _develop_, _test_, _prod_, etc). Use the `--cname` option `{yours_github_account_login}-cart-api-{environment_name}` so that Elastic Beanstalk will use it to create a proper domain name. Use the `--single` option to not use any Load Balancer for this environment. Use --envvars flag to pass environment variables to your deploment, which is necessary to create DataBase connection
 
 2. Deploy Cart Service with Elastic Beanstalk
 

@@ -3,8 +3,10 @@
 To successfully complete this course, you'll need an AWS account.
 
 While most of the labs in this course can be completed using the AWS free tier without any charges, 
-there are a few tasks that require the creation of paid resources such as NAT Gateway, Route53 zone, etc. 
-These resources will incur some costs, but they are generally minimal. 
+there is a task that require the creation of paid resource, which is RDS in the task-8. 
+Even though RDS is free tier compatible, making it publicly accessible(which is not quite a good practice) 
+would cause you to be charged ~3$/month for public IP addres. You may consider deploying this RDS in 
+a private subnet and deploying Lambda function in the VPC as well.
 Before creating any type of resources, make sure you read and understand the appropriate pricing policy. 
 Each AWS resource type has its own pricing page (e.g., [Route53 pricing](https://aws.amazon.com/route53/pricing/)). 
 
