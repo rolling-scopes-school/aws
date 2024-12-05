@@ -2,7 +2,7 @@
 - Free
 - Online
 - In English
-- Start date: April 25
+- Start date: December 9
 
 
 Welcome to our AWS Fundamentals course, designed to help you gain the knowledge required to pass the AWS Cloud Practitioner certification. 
@@ -34,10 +34,11 @@ But you will get 403 error page if you click SkillBuilder link from https://gith
 ## Schedule
 
 ### RS APP Schedule
-https://app.rs.school/course/schedule?course=aws-fundamentals-2023q3
+https://app.rs.school/course/schedule?course=aws-fundamentals-2024q4
 
 ### Week#1
-- Register on the platform: https://app.rs.school/registry/student?course=aws-fundamentals-2024q2. 
+- Register on the platform: https://app.rs.school/registry/student?course=aws-fundamentals-2024q4
+- Familiarize yourself with the course rules: https://docs.rs.school/#/en/ 
 - Join the discord chat: https://discord.gg/uWvFU2RAba  
 - Self study: https://learn.cantrill.io/p/tech-fundamentals - 9h  
 
