@@ -46,6 +46,8 @@ Find the entire program architecture: [here](../Architecture.pdf).
 3. The response from the lambda should be a _full_ array of products (mock data should be used - this mock data should be stored in Product Service).
 4. This endpoint should be integrated with Frontend app for _PLP_ (Product List Page) representation.
 
+_Note: if you have an error with **docker** during deployment, you can probably try to install **esbuild** according to the [documentation](https://docs.aws.amazon.com/cdk/api/v1/docs/aws-lambda-nodejs-readme.html#local-bundling)_
+
 ### Task 3.2
 
 1. Create a lambda function called `getProductsById` under the same AWS CDK Stack file of Product Service which will be triggered by the HTTP GET method.
