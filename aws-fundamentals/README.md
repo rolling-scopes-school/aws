@@ -38,7 +38,7 @@ https://app.rs.school/course/schedule?course=aws-fundamentals-2024q4
 
 ### Week#1
 - Register on the platform: https://app.rs.school/registry/student?course=aws-fundamentals-2024q4
-- Familiarize yourself with the course rules: https://docs.rs.school/#/en/ 
+- Familiarize yourself with the course rules: https://rs.school/docs
 - Join the discord chat: https://discord.gg/uWvFU2RAba  
 - Self study: https://learn.cantrill.io/p/tech-fundamentals - 9h  
 
