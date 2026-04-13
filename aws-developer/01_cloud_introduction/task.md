@@ -24,7 +24,7 @@ By the end of the program your application must be able to do:
 - Discord: register a new account if you don't have one and [join the course chat](https://discord.gg/uWvFU2RAba)
 - Optionally, get the role in the #role-assgner channel
 
-2. Register in [RS App](https://app.rs.school/registry/student?course=aws-developer-2025q1)
+2. Register in [RS App](https://app.rs.school/registry/student?course=aws-developer-2026q2)
 
     - The link might be outdated, so be sure to reach out if you have any doubts
     - Feel free to ask any questions in our Discord chat
